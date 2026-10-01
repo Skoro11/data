@@ -1,0 +1,24 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Common large/binary data that shouldn't be committed
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+*.iso
+*.csv.gz
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.bin
+*.mp4
+*.mov
+*.avi

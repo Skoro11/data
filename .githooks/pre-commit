@@ -1,0 +1,31 @@
+#!/bin/sh
+# Blocks commits that contain files above MAX_SIZE (bytes).
+# Bypass for a one-off legit case: git commit --no-verify
+
+MAX_SIZE=$((50 * 1024 * 1024)) # 50 MB
+
+oversized=""
+while IFS= read -r file; do
+    [ -f "$file" ] || continue
+    # Use the staged blob size, not the working-tree file size: for
+    # Git LFS-tracked files git only stores a small pointer, so checking
+    # the on-disk file would wrongly flag the full-size checkout.
+    blob=$(git ls-files -s -- "$file" | awk '{print $2}')
+    [ -n "$blob" ] || continue
+    size=$(git cat-file -s "$blob")
+    if [ "$size" -gt "$MAX_SIZE" ]; then
+        human=$(awk -v s="$size" 'BEGIN { printf "%.1f MB", s/1024/1024 }')
+        oversized="$oversized$file ($human)\n"
+    fi
+done <<EOF
+$(git diff --cached --name-only --diff-filter=ACM)
+EOF
+
+if [ -n "$oversized" ]; then
+    echo "Commit blocked: the following staged file(s) exceed the 50 MB limit:" >&2
+    printf "%b" "$oversized" >&2
+    echo "Consider .gitignore, Git LFS, or splitting the file. To override: git commit --no-verify" >&2
+    exit 1
+fi
+
+exit 0
