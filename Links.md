@@ -29,3 +29,9 @@ https://simplemaps.com/city/new-york/zips/income-household-median
 Updated 26.08.2026
 
 https://www.mta.info/developers
+
+# Population per Zip code
+
+04.10.2026
+
+https://www.newyork-demographics.com/zip_codes_by_population
