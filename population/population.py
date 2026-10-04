@@ -1,18 +1,15 @@
+import geopandas as gpd
 import pandas as pd
 
-nyc_zips = pd.read_csv("zip_codes.csv", dtype={"zip_code": str})["zip_code"].tolist()
+tracts = gpd.read_file("2020_Census_Tracts_20261004.geojson")
+tracts = tracts.rename(columns={"geoid": "GEOID"})[["GEOID", "geometry"]]
 
-df = pd.read_excel(
-    "NewYork_DemographicsByZipCode_sample.xlsx",
-    sheet_name="2024AmericanCommunitySurvey",
-    header=4,
-    dtype={"name": str},
-)
+tract_population = pd.read_csv("population_tract.csv", dtype={"GEOID": str})
+tracts = tracts.merge(tract_population[["GEOID", "population"]], on="GEOID", how="left")
 
-out = df[df["name"].isin(nyc_zips)][["name", "population"]].rename(
-    columns={"name": "zip_code"}
-)
-out = out.sort_values("zip_code")
+missing = tracts["population"].isna().sum()
+print(f"{missing} of {len(tracts)} tracts have no population (left empty)")
 
-out.to_csv("population_zip.csv", index=False)
-print(f"Wrote {len(out)} rows to population_zip.csv")
+out = tracts.drop(columns="geometry")
+out.to_csv("population_final.csv", index=False)
+print(f"Wrote {len(out)} rows to population_final.csv")
