@@ -1,0 +1,2328 @@
+GEOID,NAME,median_income
+36005000100,Census Tract 1; Bronx County; New York,
+36005000200,Census Tract 2; Bronx County; New York,123729.0
+36005000400,Census Tract 4; Bronx County; New York,105924.0
+36005001600,Census Tract 16; Bronx County; New York,52147.0
+36005001901,Census Tract 19.01; Bronx County; New York,58083.0
+36005001902,Census Tract 19.02; Bronx County; New York,48953.0
+36005001903,Census Tract 19.03; Bronx County; New York,
+36005001904,Census Tract 19.04; Bronx County; New York,
+36005002001,Census Tract 20.01; Bronx County; New York,22311.0
+36005002002,Census Tract 20.02; Bronx County; New York,18649.0
+36005002300,Census Tract 23; Bronx County; New York,16332.0
+36005002400,Census Tract 24; Bronx County; New York,
+36005002500,Census Tract 25; Bronx County; New York,35582.0
+36005002701,Census Tract 27.01; Bronx County; New York,20266.0
+36005002702,Census Tract 27.02; Bronx County; New York,30895.0
+36005002800,Census Tract 28; Bronx County; New York,58068.0
+36005003100,Census Tract 31; Bronx County; New York,59297.0
+36005003300,Census Tract 33; Bronx County; New York,31289.0
+36005003500,Census Tract 35; Bronx County; New York,36569.0
+36005003700,Census Tract 37; Bronx County; New York,53029.0
+36005003800,Census Tract 38; Bronx County; New York,54214.0
+36005003900,Census Tract 39; Bronx County; New York,25625.0
+36005004001,Census Tract 40.01; Bronx County; New York,78935.0
+36005004100,Census Tract 41; Bronx County; New York,14592.0
+36005004200,Census Tract 42; Bronx County; New York,55404.0
+36005004300,Census Tract 43; Bronx County; New York,23393.0
+36005004400,Census Tract 44; Bronx County; New York,24375.0
+36005004600,Census Tract 46; Bronx County; New York,30714.0
+36005004800,Census Tract 48; Bronx County; New York,35870.0
+36005005001,Census Tract 50.01; Bronx County; New York,33632.0
+36005005002,Census Tract 50.02; Bronx County; New York,34688.0
+36005005100,Census Tract 51; Bronx County; New York,25851.0
+36005005200,Census Tract 52; Bronx County; New York,39743.0
+36005005300,Census Tract 53; Bronx County; New York,20608.0
+36005005400,Census Tract 54; Bronx County; New York,54884.0
+36005005600,Census Tract 56; Bronx County; New York,41684.0
+36005005902,Census Tract 59.02; Bronx County; New York,51364.0
+36005006000,Census Tract 60; Bronx County; New York,78269.0
+36005006100,Census Tract 61; Bronx County; New York,72123.0
+36005006200,Census Tract 62; Bronx County; New York,27453.0
+36005006301,Census Tract 63.01; Bronx County; New York,59924.0
+36005006302,Census Tract 63.02; Bronx County; New York,
+36005006400,Census Tract 64; Bronx County; New York,41429.0
+36005006500,Census Tract 65; Bronx County; New York,22740.0
+36005006700,Census Tract 67; Bronx County; New York,30191.0
+36005006800,Census Tract 68; Bronx County; New York,32550.0
+36005006900,Census Tract 69; Bronx County; New York,26608.0
+36005007000,Census Tract 70; Bronx County; New York,40417.0
+36005007100,Census Tract 71; Bronx County; New York,23148.0
+36005007200,Census Tract 72; Bronx County; New York,58244.0
+36005007300,Census Tract 73; Bronx County; New York,29978.0
+36005007400,Census Tract 74; Bronx County; New York,69363.0
+36005007500,Census Tract 75; Bronx County; New York,34259.0
+36005007600,Census Tract 76; Bronx County; New York,53320.0
+36005007700,Census Tract 77; Bronx County; New York,50733.0
+36005007800,Census Tract 78; Bronx County; New York,47216.0
+36005007900,Census Tract 79; Bronx County; New York,43081.0
+36005008300,Census Tract 83; Bronx County; New York,48634.0
+36005008400,Census Tract 84; Bronx County; New York,63631.0
+36005008500,Census Tract 85; Bronx County; New York,41535.0
+36005008600,Census Tract 86; Bronx County; New York,22671.0
+36005008700,Census Tract 87; Bronx County; New York,40188.0
+36005008900,Census Tract 89; Bronx County; New York,35914.0
+36005009000,Census Tract 90; Bronx County; New York,36806.0
+36005009200,Census Tract 92; Bronx County; New York,58717.0
+36005009301,Census Tract 93.01; Bronx County; New York,50962.0
+36005009302,Census Tract 93.02; Bronx County; New York,
+36005009600,Census Tract 96; Bronx County; New York,47212.0
+36005009800,Census Tract 98; Bronx County; New York,97896.0
+36005011000,Census Tract 110; Bronx County; New York,
+36005011502,Census Tract 115.02; Bronx County; New York,30922.0
+36005011701,Census Tract 117.01; Bronx County; New York,36857.0
+36005011702,Census Tract 117.02; Bronx County; New York,
+36005011800,Census Tract 118; Bronx County; New York,93319.0
+36005011900,Census Tract 119; Bronx County; New York,44122.0
+36005012101,Census Tract 121.01; Bronx County; New York,34464.0
+36005012102,Census Tract 121.02; Bronx County; New York,28200.0
+36005012300,Census Tract 123; Bronx County; New York,36435.0
+36005012500,Census Tract 125; Bronx County; New York,55772.0
+36005012701,Census Tract 127.01; Bronx County; New York,34688.0
+36005012901,Census Tract 129.01; Bronx County; New York,39409.0
+36005013000,Census Tract 130; Bronx County; New York,59595.0
+36005013100,Census Tract 131; Bronx County; New York,19760.0
+36005013200,Census Tract 132; Bronx County; New York,107563.0
+36005013300,Census Tract 133; Bronx County; New York,28560.0
+36005013500,Census Tract 135; Bronx County; New York,26125.0
+36005013800,Census Tract 138; Bronx County; New York,92567.0
+36005014100,Census Tract 141; Bronx County; New York,38816.0
+36005014300,Census Tract 143; Bronx County; New York,12367.0
+36005014400,Census Tract 144; Bronx County; New York,30288.0
+36005014500,Census Tract 145; Bronx County; New York,28104.0
+36005014701,Census Tract 147.01; Bronx County; New York,35277.0
+36005014702,Census Tract 147.02; Bronx County; New York,23825.0
+36005014900,Census Tract 149; Bronx County; New York,35982.0
+36005015100,Census Tract 151; Bronx County; New York,31298.0
+36005015200,Census Tract 152; Bronx County; New York,81875.0
+36005015300,Census Tract 153; Bronx County; New York,33028.0
+36005015500,Census Tract 155; Bronx County; New York,43913.0
+36005015700,Census Tract 157; Bronx County; New York,46504.0
+36005015800,Census Tract 158; Bronx County; New York,87656.0
+36005015900,Census Tract 159; Bronx County; New York,25686.0
+36005016000,Census Tract 160; Bronx County; New York,90221.0
+36005016100,Census Tract 161; Bronx County; New York,23210.0
+36005016200,Census Tract 162; Bronx County; New York,121645.0
+36005016300,Census Tract 163; Bronx County; New York,
+36005016400,Census Tract 164; Bronx County; New York,69057.0
+36005016500,Census Tract 165; Bronx County; New York,52446.0
+36005016600,Census Tract 166; Bronx County; New York,109519.0
+36005016700,Census Tract 167; Bronx County; New York,45363.0
+36005016900,Census Tract 169; Bronx County; New York,42168.0
+36005017100,Census Tract 171; Bronx County; New York,
+36005017300,Census Tract 173; Bronx County; New York,33269.0
+36005017500,Census Tract 175; Bronx County; New York,18474.0
+36005017701,Census Tract 177.01; Bronx County; New York,62126.0
+36005017702,Census Tract 177.02; Bronx County; New York,40125.0
+36005017901,Census Tract 179.01; Bronx County; New York,47778.0
+36005017902,Census Tract 179.02; Bronx County; New York,42870.0
+36005018101,Census Tract 181.01; Bronx County; New York,55664.0
+36005018102,Census Tract 181.02; Bronx County; New York,31618.0
+36005018301,Census Tract 183.01; Bronx County; New York,46389.0
+36005018302,Census Tract 183.02; Bronx County; New York,68627.0
+36005018400,Census Tract 184; Bronx County; New York,92273.0
+36005018501,Census Tract 185.01; Bronx County; New York,49444.0
+36005018502,Census Tract 185.02; Bronx County; New York,28963.0
+36005018900,Census Tract 189; Bronx County; New York,54056.0
+36005019300,Census Tract 193; Bronx County; New York,46794.0
+36005019400,Census Tract 194; Bronx County; New York,100950.0
+36005019500,Census Tract 195; Bronx County; New York,45661.0
+36005019700,Census Tract 197; Bronx County; New York,25439.0
+36005019900,Census Tract 199; Bronx County; New York,34311.0
+36005020000,Census Tract 200; Bronx County; New York,46622.0
+36005020100,Census Tract 201; Bronx County; New York,32692.0
+36005020200,Census Tract 202; Bronx County; New York,53491.0
+36005020400,Census Tract 204; Bronx County; New York,55947.0
+36005020501,Census Tract 205.01; Bronx County; New York,27349.0
+36005020502,Census Tract 205.02; Bronx County; New York,39688.0
+36005020601,Census Tract 206.01; Bronx County; New York,86701.0
+36005020900,Census Tract 209; Bronx County; New York,38333.0
+36005021001,Census Tract 210.01; Bronx County; New York,52629.0
+36005021002,Census Tract 210.02; Bronx County; New York,73188.0
+36005021100,Census Tract 211; Bronx County; New York,52128.0
+36005021200,Census Tract 212; Bronx County; New York,68926.0
+36005021301,Census Tract 213.01; Bronx County; New York,37171.0
+36005021302,Census Tract 213.02; Bronx County; New York,37049.0
+36005021501,Census Tract 215.01; Bronx County; New York,37171.0
+36005021502,Census Tract 215.02; Bronx County; New York,20415.0
+36005021601,Census Tract 216.01; Bronx County; New York,33990.0
+36005021602,Census Tract 216.02; Bronx County; New York,58569.0
+36005021700,Census Tract 217; Bronx County; New York,36195.0
+36005021800,Census Tract 218; Bronx County; New York,60108.0
+36005021900,Census Tract 219; Bronx County; New York,48444.0
+36005022000,Census Tract 220; Bronx County; New York,23910.0
+36005022101,Census Tract 221.01; Bronx County; New York,52176.0
+36005022102,Census Tract 221.02; Bronx County; New York,33614.0
+36005022200,Census Tract 222; Bronx County; New York,48110.0
+36005022300,Census Tract 223; Bronx County; New York,45257.0
+36005022401,Census Tract 224.01; Bronx County; New York,53398.0
+36005022403,Census Tract 224.03; Bronx County; New York,72143.0
+36005022404,Census Tract 224.04; Bronx County; New York,61760.0
+36005022500,Census Tract 225; Bronx County; New York,50243.0
+36005022701,Census Tract 227.01; Bronx County; New York,37828.0
+36005022702,Census Tract 227.02; Bronx County; New York,34145.0
+36005022703,Census Tract 227.03; Bronx County; New York,60694.0
+36005022800,Census Tract 228; Bronx County; New York,83859.0
+36005022901,Census Tract 229.01; Bronx County; New York,52222.0
+36005022902,Census Tract 229.02; Bronx County; New York,47833.0
+36005023000,Census Tract 230; Bronx County; New York,53826.0
+36005023100,Census Tract 231; Bronx County; New York,
+36005023200,Census Tract 232; Bronx County; New York,50893.0
+36005023301,Census Tract 233.01; Bronx County; New York,37936.0
+36005023302,Census Tract 233.02; Bronx County; New York,69030.0
+36005023501,Census Tract 235.01; Bronx County; New York,19940.0
+36005023502,Census Tract 235.02; Bronx County; New York,41780.0
+36005023600,Census Tract 236; Bronx County; New York,52368.0
+36005023702,Census Tract 237.02; Bronx County; New York,34922.0
+36005023703,Census Tract 237.03; Bronx County; New York,32892.0
+36005023704,Census Tract 237.04; Bronx County; New York,32228.0
+36005023800,Census Tract 238; Bronx County; New York,64408.0
+36005023900,Census Tract 239; Bronx County; New York,37543.0
+36005024000,Census Tract 240; Bronx County; New York,68832.0
+36005024100,Census Tract 241; Bronx County; New York,22361.0
+36005024300,Census Tract 243; Bronx County; New York,30446.0
+36005024400,Census Tract 244; Bronx County; New York,82083.0
+36005024501,Census Tract 245.01; Bronx County; New York,45900.0
+36005024502,Census Tract 245.02; Bronx County; New York,60221.0
+36005024600,Census Tract 246; Bronx County; New York,97115.0
+36005024700,Census Tract 247; Bronx County; New York,48906.0
+36005024800,Census Tract 248; Bronx County; New York,61210.0
+36005024900,Census Tract 249; Bronx County; New York,
+36005025000,Census Tract 250; Bronx County; New York,109896.0
+36005025100,Census Tract 251; Bronx County; New York,36845.0
+36005025200,Census Tract 252; Bronx County; New York,83688.0
+36005025300,Census Tract 253; Bronx County; New York,42976.0
+36005025400,Census Tract 254; Bronx County; New York,90108.0
+36005025500,Census Tract 255; Bronx County; New York,49159.0
+36005025600,Census Tract 256; Bronx County; New York,60815.0
+36005025700,Census Tract 257; Bronx County; New York,38667.0
+36005026100,Census Tract 261; Bronx County; New York,59242.0
+36005026300,Census Tract 263; Bronx County; New York,42100.0
+36005026400,Census Tract 264; Bronx County; New York,65337.0
+36005026500,Census Tract 265; Bronx County; New York,71688.0
+36005026601,Census Tract 266.01; Bronx County; New York,51042.0
+36005026602,Census Tract 266.02; Bronx County; New York,53969.0
+36005026701,Census Tract 267.01; Bronx County; New York,52286.0
+36005026702,Census Tract 267.02; Bronx County; New York,75924.0
+36005026900,Census Tract 269; Bronx County; New York,27569.0
+36005027300,Census Tract 273; Bronx County; New York,51730.0
+36005027401,Census Tract 274.01; Bronx County; New York,105346.0
+36005027402,Census Tract 274.02; Bronx County; New York,108235.0
+36005027600,Census Tract 276; Bronx County; New York,
+36005027700,Census Tract 277; Bronx County; New York,48750.0
+36005027900,Census Tract 279; Bronx County; New York,72721.0
+36005028100,Census Tract 281; Bronx County; New York,65982.0
+36005028300,Census Tract 283; Bronx County; New York,13796.0
+36005028400,Census Tract 284; Bronx County; New York,
+36005028500,Census Tract 285; Bronx County; New York,70659.0
+36005028600,Census Tract 286; Bronx County; New York,72692.0
+36005028700,Census Tract 287; Bronx County; New York,62500.0
+36005028800,Census Tract 288; Bronx County; New York,97969.0
+36005028900,Census Tract 289; Bronx County; New York,61797.0
+36005029301,Census Tract 293.01; Bronx County; New York,145951.0
+36005029302,Census Tract 293.02; Bronx County; New York,133102.0
+36005029500,Census Tract 295; Bronx County; New York,98125.0
+36005029600,Census Tract 296; Bronx County; New York,57474.0
+36005029700,Census Tract 297; Bronx County; New York,100548.0
+36005030000,Census Tract 300; Bronx County; New York,78155.0
+36005030100,Census Tract 301; Bronx County; New York,80357.0
+36005030201,Census Tract 302.01; Bronx County; New York,69500.0
+36005030202,Census Tract 302.02; Bronx County; New York,74044.0
+36005030701,Census Tract 307.01; Bronx County; New York,109890.0
+36005030900,Census Tract 309; Bronx County; New York,117333.0
+36005031000,Census Tract 310; Bronx County; New York,148168.0
+36005031200,Census Tract 312; Bronx County; New York,108056.0
+36005031400,Census Tract 314; Bronx County; New York,111800.0
+36005031600,Census Tract 316; Bronx County; New York,79263.0
+36005031800,Census Tract 318; Bronx County; New York,96000.0
+36005031900,Census Tract 319; Bronx County; New York,
+36005032300,Census Tract 323; Bronx County; New York,95556.0
+36005032400,Census Tract 324; Bronx County; New York,31489.0
+36005032600,Census Tract 326; Bronx County; New York,89323.0
+36005032800,Census Tract 328; Bronx County; New York,49720.0
+36005033000,Census Tract 330; Bronx County; New York,40133.0
+36005033201,Census Tract 332.01; Bronx County; New York,35360.0
+36005033202,Census Tract 332.02; Bronx County; New York,50245.0
+36005033400,Census Tract 334; Bronx County; New York,
+36005033500,Census Tract 335; Bronx County; New York,109867.0
+36005033601,Census Tract 336.01; Bronx County; New York,20765.0
+36005033602,Census Tract 336.02; Bronx County; New York,70475.0
+36005033700,Census Tract 337; Bronx County; New York,125273.0
+36005033801,Census Tract 338.01; Bronx County; New York,72725.0
+36005033802,Census Tract 338.02; Bronx County; New York,62153.0
+36005034000,Census Tract 340; Bronx County; New York,63500.0
+36005034200,Census Tract 342; Bronx County; New York,73298.0
+36005034300,Census Tract 343; Bronx County; New York,76940.0
+36005034400,Census Tract 344; Bronx County; New York,79167.0
+36005034500,Census Tract 345; Bronx County; New York,100539.0
+36005034800,Census Tract 348; Bronx County; New York,55700.0
+36005035000,Census Tract 350; Bronx County; New York,72778.0
+36005035100,Census Tract 351; Bronx County; New York,94948.0
+36005035600,Census Tract 356; Bronx County; New York,85962.0
+36005035800,Census Tract 358; Bronx County; New York,87553.0
+36005035900,Census Tract 359; Bronx County; New York,34472.0
+36005036000,Census Tract 360; Bronx County; New York,85708.0
+36005036100,Census Tract 361; Bronx County; New York,29250.0
+36005036300,Census Tract 363; Bronx County; New York,27273.0
+36005036400,Census Tract 364; Bronx County; New York,64850.0
+36005036501,Census Tract 365.01; Bronx County; New York,47739.0
+36005036502,Census Tract 365.02; Bronx County; New York,27110.0
+36005036700,Census Tract 367; Bronx County; New York,27465.0
+36005036800,Census Tract 368; Bronx County; New York,65781.0
+36005036901,Census Tract 369.01; Bronx County; New York,16232.0
+36005036902,Census Tract 369.02; Bronx County; New York,36484.0
+36005037000,Census Tract 370; Bronx County; New York,108523.0
+36005037100,Census Tract 371; Bronx County; New York,39932.0
+36005037200,Census Tract 372; Bronx County; New York,75224.0
+36005037300,Census Tract 373; Bronx County; New York,50000.0
+36005037400,Census Tract 374; Bronx County; New York,35785.0
+36005037504,Census Tract 375.04; Bronx County; New York,40219.0
+36005037600,Census Tract 376; Bronx County; New York,60288.0
+36005037800,Census Tract 378; Bronx County; New York,65964.0
+36005037900,Census Tract 379; Bronx County; New York,50250.0
+36005038000,Census Tract 380; Bronx County; New York,48073.0
+36005038100,Census Tract 381; Bronx County; New York,42015.0
+36005038200,Census Tract 382; Bronx County; New York,83125.0
+36005038301,Census Tract 383.01; Bronx County; New York,44040.0
+36005038303,Census Tract 383.03; Bronx County; New York,45258.0
+36005038304,Census Tract 383.04; Bronx County; New York,26842.0
+36005038500,Census Tract 385; Bronx County; New York,13554.0
+36005038600,Census Tract 386; Bronx County; New York,68481.0
+36005038700,Census Tract 387; Bronx County; New York,44982.0
+36005038800,Census Tract 388; Bronx County; New York,61000.0
+36005038900,Census Tract 389; Bronx County; New York,46471.0
+36005039000,Census Tract 390; Bronx County; New York,56563.0
+36005039100,Census Tract 391; Bronx County; New York,34663.0
+36005039200,Census Tract 392; Bronx County; New York,67917.0
+36005039300,Census Tract 393; Bronx County; New York,27776.0
+36005039400,Census Tract 394; Bronx County; New York,60373.0
+36005039500,Census Tract 395; Bronx County; New York,21674.0
+36005039600,Census Tract 396; Bronx County; New York,48798.0
+36005039700,Census Tract 397; Bronx County; New York,31964.0
+36005039800,Census Tract 398; Bronx County; New York,28491.0
+36005039901,Census Tract 399.01; Bronx County; New York,43503.0
+36005039902,Census Tract 399.02; Bronx County; New York,43491.0
+36005040100,Census Tract 401; Bronx County; New York,28649.0
+36005040302,Census Tract 403.02; Bronx County; New York,37756.0
+36005040303,Census Tract 403.03; Bronx County; New York,42750.0
+36005040304,Census Tract 403.04; Bronx County; New York,36913.0
+36005040400,Census Tract 404; Bronx County; New York,65451.0
+36005040501,Census Tract 405.01; Bronx County; New York,42386.0
+36005040502,Census Tract 405.02; Bronx County; New York,38884.0
+36005040600,Census Tract 406; Bronx County; New York,48857.0
+36005040701,Census Tract 407.01; Bronx County; New York,46188.0
+36005040702,Census Tract 407.02; Bronx County; New York,33946.0
+36005040800,Census Tract 408; Bronx County; New York,41555.0
+36005040900,Census Tract 409; Bronx County; New York,67793.0
+36005041100,Census Tract 411; Bronx County; New York,54219.0
+36005041300,Census Tract 413; Bronx County; New York,60254.0
+36005041400,Census Tract 414; Bronx County; New York,125302.0
+36005041500,Census Tract 415; Bronx County; New York,50579.0
+36005041800,Census Tract 418; Bronx County; New York,62567.0
+36005041900,Census Tract 419; Bronx County; New York,57079.0
+36005042000,Census Tract 420; Bronx County; New York,31776.0
+36005042100,Census Tract 421; Bronx County; New York,52824.0
+36005042200,Census Tract 422; Bronx County; New York,75201.0
+36005042300,Census Tract 423; Bronx County; New York,71422.0
+36005042400,Census Tract 424; Bronx County; New York,106468.0
+36005042500,Census Tract 425; Bronx County; New York,48280.0
+36005042600,Census Tract 426; Bronx County; New York,99764.0
+36005042800,Census Tract 428; Bronx County; New York,168646.0
+36005042901,Census Tract 429.01; Bronx County; New York,46779.0
+36005042902,Census Tract 429.02; Bronx County; New York,44663.0
+36005043000,Census Tract 430; Bronx County; New York,85074.0
+36005043101,Census Tract 431.01; Bronx County; New York,40089.0
+36005043102,Census Tract 431.02; Bronx County; New York,50926.0
+36005043400,Census Tract 434; Bronx County; New York,76036.0
+36005043501,Census Tract 435.01; Bronx County; New York,
+36005043502,Census Tract 435.02; Bronx County; New York,
+36005043503,Census Tract 435.03; Bronx County; New York,
+36005043600,Census Tract 436; Bronx County; New York,84735.0
+36005044200,Census Tract 442; Bronx County; New York,56434.0
+36005044400,Census Tract 444; Bronx County; New York,89615.0
+36005044800,Census Tract 448; Bronx County; New York,104094.0
+36005044901,Census Tract 449.01; Bronx County; New York,91419.0
+36005044902,Census Tract 449.02; Bronx County; New York,99297.0
+36005045101,Census Tract 451.01; Bronx County; New York,77246.0
+36005045102,Census Tract 451.02; Bronx County; New York,99395.0
+36005045600,Census Tract 456; Bronx County; New York,79386.0
+36005045800,Census Tract 458; Bronx County; New York,30453.0
+36005046000,Census Tract 460; Bronx County; New York,44355.0
+36005046203,Census Tract 462.03; Bronx County; New York,40755.0
+36005046204,Census Tract 462.04; Bronx County; New York,63652.0
+36005046205,Census Tract 462.05; Bronx County; New York,75679.0
+36005046206,Census Tract 462.06; Bronx County; New York,67234.0
+36005046207,Census Tract 462.07; Bronx County; New York,59838.0
+36005046208,Census Tract 462.08; Bronx County; New York,87061.0
+36005046209,Census Tract 462.09; Bronx County; New York,30185.0
+36005048401,Census Tract 484.01; Bronx County; New York,88862.0
+36005048402,Census Tract 484.02; Bronx County; New York,
+36005050400,Census Tract 504; Bronx County; New York,
+36005051601,Census Tract 516.01; Bronx County; New York,103125.0
+36005051602,Census Tract 516.02; Bronx County; New York,
+36047000100,Census Tract 1; Kings County; New York,178162.0
+36047000200,Census Tract 2; Kings County; New York,79375.0
+36047000301,Census Tract 3.01; Kings County; New York,185128.0
+36047000501,Census Tract 5.01; Kings County; New York,141364.0
+36047000502,Census Tract 5.02; Kings County; New York,168013.0
+36047000700,Census Tract 7; Kings County; New York,201827.0
+36047000900,Census Tract 9; Kings County; New York,205500.0
+36047001100,Census Tract 11; Kings County; New York,203958.0
+36047001300,Census Tract 13; Kings County; New York,139866.0
+36047001501,Census Tract 15.01; Kings County; New York,142560.0
+36047001502,Census Tract 15.02; Kings County; New York,138179.0
+36047001801,Census Tract 18.01; Kings County; New York,
+36047001802,Census Tract 18.02; Kings County; New York,
+36047001803,Census Tract 18.03; Kings County; New York,
+36047001804,Census Tract 18.04; Kings County; New York,
+36047002000,Census Tract 20; Kings County; New York,81458.0
+36047002100,Census Tract 21; Kings County; New York,250001.0
+36047002200,Census Tract 22; Kings County; New York,41852.0
+36047002300,Census Tract 23; Kings County; New York,34977.0
+36047002901,Census Tract 29.01; Kings County; New York,22855.0
+36047003000,Census Tract 30; Kings County; New York,130473.0
+36047003101,Census Tract 31.01; Kings County; New York,158500.0
+36047003102,Census Tract 31.02; Kings County; New York,
+36047003300,Census Tract 33; Kings County; New York,136217.0
+36047003400,Census Tract 34; Kings County; New York,113143.0
+36047003500,Census Tract 35; Kings County; New York,123417.0
+36047003600,Census Tract 36; Kings County; New York,91583.0
+36047003700,Census Tract 37; Kings County; New York,181404.0
+36047003800,Census Tract 38; Kings County; New York,135313.0
+36047003900,Census Tract 39; Kings County; New York,187273.0
+36047004100,Census Tract 41; Kings County; New York,229002.0
+36047004300,Census Tract 43; Kings County; New York,161875.0
+36047004400,Census Tract 44; Kings County; New York,142143.0
+36047004500,Census Tract 45; Kings County; New York,189833.0
+36047004600,Census Tract 46; Kings County; New York,134773.0
+36047004700,Census Tract 47; Kings County; New York,145341.0
+36047004900,Census Tract 49; Kings County; New York,166667.0
+36047005000,Census Tract 50; Kings County; New York,134013.0
+36047005100,Census Tract 51; Kings County; New York,178913.0
+36047005201,Census Tract 52.01; Kings County; New York,40789.0
+36047005202,Census Tract 52.02; Kings County; New York,107143.0
+36047005301,Census Tract 53.01; Kings County; New York,126071.0
+36047005302,Census Tract 53.02; Kings County; New York,139609.0
+36047005303,Census Tract 53.03; Kings County; New York,203750.0
+36047005400,Census Tract 54; Kings County; New York,85342.0
+36047005601,Census Tract 56.01; Kings County; New York,104598.0
+36047005602,Census Tract 56.02; Kings County; New York,96397.0
+36047005800,Census Tract 58; Kings County; New York,77648.0
+36047005900,Census Tract 59; Kings County; New York,110288.0
+36047006000,Census Tract 60; Kings County; New York,88542.0
+36047006200,Census Tract 62; Kings County; New York,83500.0
+36047006300,Census Tract 63; Kings County; New York,188519.0
+36047006400,Census Tract 64; Kings County; New York,98846.0
+36047006500,Census Tract 65; Kings County; New York,202355.0
+36047006600,Census Tract 66; Kings County; New York,98158.0
+36047006700,Census Tract 67; Kings County; New York,214931.0
+36047006800,Census Tract 68; Kings County; New York,80938.0
+36047006901,Census Tract 69.01; Kings County; New York,149936.0
+36047006902,Census Tract 69.02; Kings County; New York,226136.0
+36047007000,Census Tract 70; Kings County; New York,87198.0
+36047007100,Census Tract 71; Kings County; New York,53786.0
+36047007200,Census Tract 72; Kings County; New York,64000.0
+36047007400,Census Tract 74; Kings County; New York,73454.0
+36047007500,Census Tract 75; Kings County; New York,169375.0
+36047007600,Census Tract 76; Kings County; New York,73681.0
+36047007700,Census Tract 77; Kings County; New York,212827.0
+36047007800,Census Tract 78; Kings County; New York,79981.0
+36047008000,Census Tract 80; Kings County; New York,71250.0
+36047008200,Census Tract 82; Kings County; New York,53500.0
+36047008400,Census Tract 84; Kings County; New York,116100.0
+36047008500,Census Tract 85; Kings County; New York,27854.0
+36047008600,Census Tract 86; Kings County; New York,
+36047008800,Census Tract 88; Kings County; New York,95707.0
+36047009001,Census Tract 90.01; Kings County; New York,45945.0
+36047009002,Census Tract 90.02; Kings County; New York,62225.0
+36047009201,Census Tract 92.01; Kings County; New York,83824.0
+36047009202,Census Tract 92.02; Kings County; New York,53641.0
+36047009401,Census Tract 94.01; Kings County; New York,49620.0
+36047009402,Census Tract 94.02; Kings County; New York,85929.0
+36047009600,Census Tract 96; Kings County; New York,83664.0
+36047009800,Census Tract 98; Kings County; New York,60679.0
+36047010000,Census Tract 100; Kings County; New York,57881.0
+36047010100,Census Tract 101; Kings County; New York,136705.0
+36047010200,Census Tract 102; Kings County; New York,65668.0
+36047010401,Census Tract 104.01; Kings County; New York,56875.0
+36047010402,Census Tract 104.02; Kings County; New York,40255.0
+36047010601,Census Tract 106.01; Kings County; New York,45106.0
+36047010602,Census Tract 106.02; Kings County; New York,65372.0
+36047010801,Census Tract 108.01; Kings County; New York,66143.0
+36047010802,Census Tract 108.02; Kings County; New York,69479.0
+36047011000,Census Tract 110; Kings County; New York,86932.0
+36047011200,Census Tract 112; Kings County; New York,60348.0
+36047011400,Census Tract 114; Kings County; New York,74063.0
+36047011600,Census Tract 116; Kings County; New York,65551.0
+36047011700,Census Tract 117; Kings County; New York,153348.0
+36047011800,Census Tract 118; Kings County; New York,62273.0
+36047011901,Census Tract 119.01; Kings County; New York,165179.0
+36047011902,Census Tract 119.02; Kings County; New York,
+36047012000,Census Tract 120; Kings County; New York,72987.0
+36047012100,Census Tract 121; Kings County; New York,130357.0
+36047012200,Census Tract 122; Kings County; New York,54071.0
+36047012600,Census Tract 126; Kings County; New York,81477.0
+36047012700,Census Tract 127; Kings County; New York,63750.0
+36047012801,Census Tract 128.01; Kings County; New York,74306.0
+36047012901,Census Tract 129.01; Kings County; New York,250001.0
+36047012902,Census Tract 129.02; Kings County; New York,183510.0
+36047013000,Census Tract 130; Kings County; New York,78942.0
+36047013100,Census Tract 131; Kings County; New York,107083.0
+36047013200,Census Tract 132; Kings County; New York,81429.0
+36047013300,Census Tract 133; Kings County; New York,201298.0
+36047013400,Census Tract 134; Kings County; New York,99886.0
+36047013500,Census Tract 135; Kings County; New York,221920.0
+36047013600,Census Tract 136; Kings County; New York,88182.0
+36047013700,Census Tract 137; Kings County; New York,170600.0
+36047013800,Census Tract 138; Kings County; New York,112703.0
+36047013900,Census Tract 139; Kings County; New York,173378.0
+36047014000,Census Tract 140; Kings County; New York,61111.0
+36047014101,Census Tract 141.01; Kings County; New York,215104.0
+36047014102,Census Tract 141.02; Kings County; New York,113750.0
+36047014200,Census Tract 142; Kings County; New York,81250.0
+36047014300,Census Tract 143; Kings County; New York,119594.0
+36047014500,Census Tract 145; Kings County; New York,117800.0
+36047014700,Census Tract 147; Kings County; New York,162847.0
+36047014800,Census Tract 148; Kings County; New York,88787.0
+36047014901,Census Tract 149.01; Kings County; New York,166161.0
+36047014902,Census Tract 149.02; Kings County; New York,171346.0
+36047015000,Census Tract 150; Kings County; New York,63594.0
+36047015100,Census Tract 151; Kings County; New York,188866.0
+36047015200,Census Tract 152; Kings County; New York,92454.0
+36047015300,Census Tract 153; Kings County; New York,154286.0
+36047015400,Census Tract 154; Kings County; New York,
+36047015500,Census Tract 155; Kings County; New York,206176.0
+36047015700,Census Tract 157; Kings County; New York,209940.0
+36047015900,Census Tract 159; Kings County; New York,201858.0
+36047016000,Census Tract 160; Kings County; New York,83920.0
+36047016100,Census Tract 161; Kings County; New York,172234.0
+36047016200,Census Tract 162; Kings County; New York,100278.0
+36047016300,Census Tract 163; Kings County; New York,196630.0
+36047016400,Census Tract 164; Kings County; New York,106875.0
+36047016500,Census Tract 165; Kings County; New York,250001.0
+36047016600,Census Tract 166; Kings County; New York,114635.0
+36047016700,Census Tract 167; Kings County; New York,190125.0
+36047016800,Census Tract 168; Kings County; New York,118341.0
+36047016900,Census Tract 169; Kings County; New York,140727.0
+36047017000,Census Tract 170; Kings County; New York,102417.0
+36047017100,Census Tract 171; Kings County; New York,174646.0
+36047017200,Census Tract 172; Kings County; New York,136096.0
+36047017400,Census Tract 174; Kings County; New York,103594.0
+36047017500,Census Tract 175; Kings County; New York,
+36047017600,Census Tract 176; Kings County; New York,90833.0
+36047017700,Census Tract 177; Kings County; New York,
+36047017800,Census Tract 178; Kings County; New York,91923.0
+36047017900,Census Tract 179; Kings County; New York,103836.0
+36047018000,Census Tract 180; Kings County; New York,59936.0
+36047018100,Census Tract 181; Kings County; New York,175294.0
+36047018200,Census Tract 182; Kings County; New York,78750.0
+36047018300,Census Tract 183; Kings County; New York,194519.0
+36047018400,Census Tract 184; Kings County; New York,81467.0
+36047018501,Census Tract 185.01; Kings County; New York,44877.0
+36047018600,Census Tract 186; Kings County; New York,76667.0
+36047018700,Census Tract 187; Kings County; New York,139231.0
+36047018800,Census Tract 188; Kings County; New York,38227.0
+36047019000,Census Tract 190; Kings County; New York,48824.0
+36047019100,Census Tract 191; Kings County; New York,148929.0
+36047019200,Census Tract 192; Kings County; New York,72303.0
+36047019300,Census Tract 193; Kings County; New York,79505.0
+36047019400,Census Tract 194; Kings County; New York,66080.0
+36047019500,Census Tract 195; Kings County; New York,139329.0
+36047019600,Census Tract 196; Kings County; New York,74292.0
+36047019700,Census Tract 197; Kings County; New York,121235.0
+36047019800,Census Tract 198; Kings County; New York,78673.0
+36047019900,Census Tract 199; Kings County; New York,130688.0
+36047020000,Census Tract 200; Kings County; New York,98214.0
+36047020100,Census Tract 201; Kings County; New York,150978.0
+36047020200,Census Tract 202; Kings County; New York,79643.0
+36047020300,Census Tract 203; Kings County; New York,160795.0
+36047020400,Census Tract 204; Kings County; New York,143162.0
+36047020500,Census Tract 205; Kings County; New York,164926.0
+36047020600,Census Tract 206; Kings County; New York,87446.0
+36047020700,Census Tract 207; Kings County; New York,190843.0
+36047020800,Census Tract 208; Kings County; New York,65491.0
+36047021000,Census Tract 210; Kings County; New York,69970.0
+36047021100,Census Tract 211; Kings County; New York,85225.0
+36047021200,Census Tract 212; Kings County; New York,56250.0
+36047021300,Census Tract 213; Kings County; New York,82426.0
+36047021400,Census Tract 214; Kings County; New York,78214.0
+36047021500,Census Tract 215; Kings County; New York,151154.0
+36047021600,Census Tract 216; Kings County; New York,47950.0
+36047021700,Census Tract 217; Kings County; New York,112957.0
+36047021800,Census Tract 218; Kings County; New York,69291.0
+36047021900,Census Tract 219; Kings County; New York,122589.0
+36047022000,Census Tract 220; Kings County; New York,59395.0
+36047022100,Census Tract 221; Kings County; New York,87021.0
+36047022200,Census Tract 222; Kings County; New York,52361.0
+36047022400,Census Tract 224; Kings County; New York,56105.0
+36047022600,Census Tract 226; Kings County; New York,86655.0
+36047022700,Census Tract 227; Kings County; New York,119148.0
+36047022800,Census Tract 228; Kings County; New York,55898.0
+36047022900,Census Tract 229; Kings County; New York,139609.0
+36047023000,Census Tract 230; Kings County; New York,32725.0
+36047023100,Census Tract 231; Kings County; New York,160199.0
+36047023200,Census Tract 232; Kings County; New York,63094.0
+36047023300,Census Tract 233; Kings County; New York,78177.0
+36047023400,Census Tract 234; Kings County; New York,37587.0
+36047023500,Census Tract 235; Kings County; New York,111917.0
+36047023600,Census Tract 236; Kings County; New York,39479.0
+36047023800,Census Tract 238; Kings County; New York,43843.0
+36047024000,Census Tract 240; Kings County; New York,37833.0
+36047024100,Census Tract 241; Kings County; New York,141717.0
+36047024200,Census Tract 242; Kings County; New York,59276.0
+36047024300,Census Tract 243; Kings County; New York,122203.0
+36047024400,Census Tract 244; Kings County; New York,76417.0
+36047024500,Census Tract 245; Kings County; New York,103194.0
+36047024600,Census Tract 246; Kings County; New York,71711.0
+36047024700,Census Tract 247; Kings County; New York,57106.0
+36047024800,Census Tract 248; Kings County; New York,79340.0
+36047024900,Census Tract 249; Kings County; New York,84746.0
+36047025000,Census Tract 250; Kings County; New York,51250.0
+36047025100,Census Tract 251; Kings County; New York,58856.0
+36047025200,Census Tract 252; Kings County; New York,54012.0
+36047025300,Census Tract 253; Kings County; New York,115700.0
+36047025400,Census Tract 254; Kings County; New York,89021.0
+36047025500,Census Tract 255; Kings County; New York,26906.0
+36047025600,Census Tract 256; Kings County; New York,71250.0
+36047025700,Census Tract 257; Kings County; New York,88750.0
+36047025800,Census Tract 258; Kings County; New York,67167.0
+36047025901,Census Tract 259.01; Kings County; New York,90000.0
+36047025902,Census Tract 259.02; Kings County; New York,
+36047026000,Census Tract 260; Kings County; New York,68043.0
+36047026100,Census Tract 261; Kings County; New York,103274.0
+36047026200,Census Tract 262; Kings County; New York,99750.0
+36047026300,Census Tract 263; Kings County; New York,85546.0
+36047026400,Census Tract 264; Kings County; New York,69808.0
+36047026500,Census Tract 265; Kings County; New York,82088.0
+36047026600,Census Tract 266; Kings County; New York,47544.0
+36047026700,Census Tract 267; Kings County; New York,150386.0
+36047026800,Census Tract 268; Kings County; New York,90442.0
+36047026900,Census Tract 269; Kings County; New York,96006.0
+36047027000,Census Tract 270; Kings County; New York,62083.0
+36047027100,Census Tract 271; Kings County; New York,84412.0
+36047027200,Census Tract 272; Kings County; New York,59802.0
+36047027300,Census Tract 273; Kings County; New York,122093.0
+36047027400,Census Tract 274; Kings County; New York,49800.0
+36047027500,Census Tract 275; Kings County; New York,84756.0
+36047027600,Census Tract 276; Kings County; New York,63447.0
+36047027700,Census Tract 277; Kings County; New York,61042.0
+36047027800,Census Tract 278; Kings County; New York,68792.0
+36047027900,Census Tract 279; Kings County; New York,91771.0
+36047028000,Census Tract 280; Kings County; New York,95208.0
+36047028100,Census Tract 281; Kings County; New York,45850.0
+36047028200,Census Tract 282; Kings County; New York,52926.0
+36047028300,Census Tract 283; Kings County; New York,53040.0
+36047028400,Census Tract 284; Kings County; New York,59954.0
+36047028501,Census Tract 285.01; Kings County; New York,57969.0
+36047028502,Census Tract 285.02; Kings County; New York,14944.0
+36047028600,Census Tract 286; Kings County; New York,47923.0
+36047028700,Census Tract 287; Kings County; New York,106462.0
+36047028800,Census Tract 288; Kings County; New York,77042.0
+36047028900,Census Tract 289; Kings County; New York,50152.0
+36047029000,Census Tract 290; Kings County; New York,62731.0
+36047029100,Census Tract 291; Kings County; New York,88153.0
+36047029200,Census Tract 292; Kings County; New York,55653.0
+36047029300,Census Tract 293; Kings County; New York,36833.0
+36047029400,Census Tract 294; Kings County; New York,91544.0
+36047029500,Census Tract 295; Kings County; New York,94227.0
+36047029600,Census Tract 296; Kings County; New York,66349.0
+36047029700,Census Tract 297; Kings County; New York,70536.0
+36047029800,Census Tract 298; Kings County; New York,61059.0
+36047029900,Census Tract 299; Kings County; New York,65433.0
+36047030000,Census Tract 300; Kings County; New York,73981.0
+36047030100,Census Tract 301; Kings County; New York,98438.0
+36047030200,Census Tract 302; Kings County; New York,76005.0
+36047030300,Census Tract 303; Kings County; New York,43275.0
+36047030400,Census Tract 304; Kings County; New York,68581.0
+36047030500,Census Tract 305; Kings County; New York,122353.0
+36047030600,Census Tract 306; Kings County; New York,65985.0
+36047030700,Census Tract 307; Kings County; New York,50049.0
+36047030800,Census Tract 308; Kings County; New York,50865.0
+36047030900,Census Tract 309; Kings County; New York,66889.0
+36047031100,Census Tract 311; Kings County; New York,106845.0
+36047031300,Census Tract 313; Kings County; New York,105407.0
+36047031401,Census Tract 314.01; Kings County; New York,101193.0
+36047031402,Census Tract 314.02; Kings County; New York,
+36047031500,Census Tract 315; Kings County; New York,100899.0
+36047031701,Census Tract 317.01; Kings County; New York,101806.0
+36047031702,Census Tract 317.02; Kings County; New York,115512.0
+36047031900,Census Tract 319; Kings County; New York,90357.0
+36047032100,Census Tract 321; Kings County; New York,86685.0
+36047032300,Census Tract 323; Kings County; New York,83815.0
+36047032500,Census Tract 325; Kings County; New York,94328.0
+36047032600,Census Tract 326; Kings County; New York,49911.0
+36047032700,Census Tract 327; Kings County; New York,82554.0
+36047032800,Census Tract 328; Kings County; New York,53526.0
+36047032900,Census Tract 329; Kings County; New York,92193.0
+36047033000,Census Tract 330; Kings County; New York,23583.0
+36047033100,Census Tract 331; Kings County; New York,44347.0
+36047033300,Census Tract 333; Kings County; New York,103333.0
+36047033500,Census Tract 335; Kings County; New York,102188.0
+36047033600,Census Tract 336; Kings County; New York,76719.0
+36047033701,Census Tract 337.01; Kings County; New York,93620.0
+36047033702,Census Tract 337.02; Kings County; New York,87165.0
+36047033900,Census Tract 339; Kings County; New York,61979.0
+36047034000,Census Tract 340; Kings County; New York,32983.0
+36047034100,Census Tract 341; Kings County; New York,95300.0
+36047034200,Census Tract 342; Kings County; New York,22872.0
+36047034300,Census Tract 343; Kings County; New York,28750.0
+36047034500,Census Tract 345; Kings County; New York,81850.0
+36047034700,Census Tract 347; Kings County; New York,42457.0
+36047034800,Census Tract 348; Kings County; New York,53710.0
+36047034901,Census Tract 349.01; Kings County; New York,82521.0
+36047034902,Census Tract 349.02; Kings County; New York,34381.0
+36047035000,Census Tract 350; Kings County; New York,56891.0
+36047035101,Census Tract 351.01; Kings County; New York,53626.0
+36047035102,Census Tract 351.02; Kings County; New York,70030.0
+36047035200,Census Tract 352; Kings County; New York,13240.0
+36047035301,Census Tract 353.01; Kings County; New York,46789.0
+36047035302,Census Tract 353.02; Kings County; New York,85234.0
+36047035400,Census Tract 354; Kings County; New York,63382.0
+36047035500,Census Tract 355; Kings County; New York,75139.0
+36047035601,Census Tract 356.01; Kings County; New York,28750.0
+36047035602,Census Tract 356.02; Kings County; New York,50456.0
+36047035701,Census Tract 357.01; Kings County; New York,45313.0
+36047035702,Census Tract 357.02; Kings County; New York,
+36047035900,Census Tract 359; Kings County; New York,62774.0
+36047036001,Census Tract 360.01; Kings County; New York,30877.0
+36047036002,Census Tract 360.02; Kings County; New York,30176.0
+36047036100,Census Tract 361; Kings County; New York,37035.0
+36047036200,Census Tract 362; Kings County; New York,52023.0
+36047036300,Census Tract 363; Kings County; New York,58091.0
+36047036400,Census Tract 364; Kings County; New York,63480.0
+36047036501,Census Tract 365.01; Kings County; New York,67165.0
+36047036502,Census Tract 365.02; Kings County; New York,67038.0
+36047036600,Census Tract 366; Kings County; New York,52385.0
+36047036700,Census Tract 367; Kings County; New York,70426.0
+36047036900,Census Tract 369; Kings County; New York,48583.0
+36047037000,Census Tract 370; Kings County; New York,69493.0
+36047037100,Census Tract 371; Kings County; New York,87679.0
+36047037300,Census Tract 373; Kings County; New York,71786.0
+36047037401,Census Tract 374.01; Kings County; New York,59004.0
+36047037402,Census Tract 374.02; Kings County; New York,57118.0
+36047037500,Census Tract 375; Kings County; New York,91985.0
+36047037700,Census Tract 377; Kings County; New York,71786.0
+36047037900,Census Tract 379; Kings County; New York,67949.0
+36047038100,Census Tract 381; Kings County; New York,70867.0
+36047038200,Census Tract 382; Kings County; New York,22332.0
+36047038300,Census Tract 383; Kings County; New York,87786.0
+36047038500,Census Tract 385; Kings County; New York,114375.0
+36047038600,Census Tract 386; Kings County; New York,91857.0
+36047038700,Census Tract 387; Kings County; New York,93221.0
+36047038800,Census Tract 388; Kings County; New York,83558.0
+36047038900,Census Tract 389; Kings County; New York,98819.0
+36047039000,Census Tract 390; Kings County; New York,72143.0
+36047039100,Census Tract 391; Kings County; New York,103796.0
+36047039200,Census Tract 392; Kings County; New York,54483.0
+36047039300,Census Tract 393; Kings County; New York,112566.0
+36047039400,Census Tract 394; Kings County; New York,62875.0
+36047039500,Census Tract 395; Kings County; New York,84219.0
+36047039600,Census Tract 396; Kings County; New York,69563.0
+36047039700,Census Tract 397; Kings County; New York,74291.0
+36047039800,Census Tract 398; Kings County; New York,89750.0
+36047039900,Census Tract 399; Kings County; New York,50329.0
+36047040000,Census Tract 400; Kings County; New York,58941.0
+36047040100,Census Tract 401; Kings County; New York,69616.0
+36047040200,Census Tract 402; Kings County; New York,76250.0
+36047040300,Census Tract 403; Kings County; New York,103792.0
+36047040400,Census Tract 404; Kings County; New York,106442.0
+36047040500,Census Tract 405; Kings County; New York,69437.0
+36047040600,Census Tract 406; Kings County; New York,79941.0
+36047040700,Census Tract 407; Kings County; New York,
+36047040800,Census Tract 408; Kings County; New York,78750.0
+36047040900,Census Tract 409; Kings County; New York,78220.0
+36047041000,Census Tract 410; Kings County; New York,60694.0
+36047041100,Census Tract 411; Kings County; New York,63125.0
+36047041200,Census Tract 412; Kings County; New York,95152.0
+36047041300,Census Tract 413; Kings County; New York,110996.0
+36047041401,Census Tract 414.01; Kings County; New York,71944.0
+36047041402,Census Tract 414.02; Kings County; New York,39048.0
+36047041500,Census Tract 415; Kings County; New York,96110.0
+36047041600,Census Tract 416; Kings County; New York,63425.0
+36047041700,Census Tract 417; Kings County; New York,32028.0
+36047041800,Census Tract 418; Kings County; New York,46607.0
+36047041900,Census Tract 419; Kings County; New York,73958.0
+36047042000,Census Tract 420; Kings County; New York,88700.0
+36047042100,Census Tract 421; Kings County; New York,94209.0
+36047042200,Census Tract 422; Kings County; New York,73033.0
+36047042300,Census Tract 423; Kings County; New York,123750.0
+36047042400,Census Tract 424; Kings County; New York,70060.0
+36047042500,Census Tract 425; Kings County; New York,86316.0
+36047042600,Census Tract 426; Kings County; New York,71840.0
+36047042700,Census Tract 427; Kings County; New York,92250.0
+36047042800,Census Tract 428; Kings County; New York,88656.0
+36047042900,Census Tract 429; Kings County; New York,65000.0
+36047043000,Census Tract 430; Kings County; New York,75417.0
+36047043100,Census Tract 431; Kings County; New York,90745.0
+36047043200,Census Tract 432; Kings County; New York,79667.0
+36047043300,Census Tract 433; Kings County; New York,59551.0
+36047043400,Census Tract 434; Kings County; New York,66763.0
+36047043500,Census Tract 435; Kings County; New York,67778.0
+36047043600,Census Tract 436; Kings County; New York,83284.0
+36047043700,Census Tract 437; Kings County; New York,77904.0
+36047043800,Census Tract 438; Kings County; New York,70066.0
+36047043900,Census Tract 439; Kings County; New York,114318.0
+36047044000,Census Tract 440; Kings County; New York,88344.0
+36047044100,Census Tract 441; Kings County; New York,78526.0
+36047044200,Census Tract 442; Kings County; New York,62708.0
+36047044300,Census Tract 443; Kings County; New York,94517.0
+36047044400,Census Tract 444; Kings County; New York,67554.0
+36047044500,Census Tract 445; Kings County; New York,86717.0
+36047044600,Census Tract 446; Kings County; New York,69099.0
+36047044700,Census Tract 447; Kings County; New York,89511.0
+36047044800,Census Tract 448; Kings County; New York,96639.0
+36047044901,Census Tract 449.01; Kings County; New York,78774.0
+36047044902,Census Tract 449.02; Kings County; New York,
+36047045000,Census Tract 450; Kings County; New York,90893.0
+36047045200,Census Tract 452; Kings County; New York,74250.0
+36047045300,Census Tract 453; Kings County; New York,70598.0
+36047045400,Census Tract 454; Kings County; New York,94607.0
+36047045600,Census Tract 456; Kings County; New York,70329.0
+36047045800,Census Tract 458; Kings County; New York,58958.0
+36047046000,Census Tract 460; Kings County; New York,97188.0
+36047046201,Census Tract 462.01; Kings County; New York,63375.0
+36047046202,Census Tract 462.02; Kings County; New York,85536.0
+36047046400,Census Tract 464; Kings County; New York,72422.0
+36047046800,Census Tract 468; Kings County; New York,41343.0
+36047047000,Census Tract 470; Kings County; New York,75069.0
+36047047200,Census Tract 472; Kings County; New York,71635.0
+36047047400,Census Tract 474; Kings County; New York,99769.0
+36047047600,Census Tract 476; Kings County; New York,61250.0
+36047047700,Census Tract 477; Kings County; New York,179175.0
+36047047800,Census Tract 478; Kings County; New York,60590.0
+36047048000,Census Tract 480; Kings County; New York,52940.0
+36047048100,Census Tract 481; Kings County; New York,94896.0
+36047048200,Census Tract 482; Kings County; New York,58234.0
+36047048400,Census Tract 484; Kings County; New York,96964.0
+36047048500,Census Tract 485; Kings County; New York,130278.0
+36047048600,Census Tract 486; Kings County; New York,65714.0
+36047048800,Census Tract 488; Kings County; New York,76110.0
+36047048900,Census Tract 489; Kings County; New York,26070.0
+36047049000,Census Tract 490; Kings County; New York,77917.0
+36047049100,Census Tract 491; Kings County; New York,46137.0
+36047049200,Census Tract 492; Kings County; New York,103269.0
+36047049301,Census Tract 493.01; Kings County; New York,19440.0
+36047049302,Census Tract 493.02; Kings County; New York,82423.0
+36047049400,Census Tract 494; Kings County; New York,97625.0
+36047049500,Census Tract 495; Kings County; New York,141250.0
+36047049600,Census Tract 496; Kings County; New York,66920.0
+36047049700,Census Tract 497; Kings County; New York,144872.0
+36047049800,Census Tract 498; Kings County; New York,77692.0
+36047049900,Census Tract 499; Kings County; New York,146106.0
+36047050001,Census Tract 500.01; Kings County; New York,124177.0
+36047050002,Census Tract 500.02; Kings County; New York,124107.0
+36047050100,Census Tract 501; Kings County; New York,126696.0
+36047050202,Census Tract 502.02; Kings County; New York,132670.0
+36047050300,Census Tract 503; Kings County; New York,173548.0
+36047050401,Census Tract 504.01; Kings County; New York,156033.0
+36047050402,Census Tract 504.02; Kings County; New York,166100.0
+36047050500,Census Tract 505; Kings County; New York,57500.0
+36047050600,Census Tract 506; Kings County; New York,69276.0
+36047050700,Census Tract 507; Kings County; New York,59158.0
+36047050801,Census Tract 508.01; Kings County; New York,74333.0
+36047050803,Census Tract 508.03; Kings County; New York,68496.0
+36047050804,Census Tract 508.04; Kings County; New York,110317.0
+36047050900,Census Tract 509; Kings County; New York,42361.0
+36047051001,Census Tract 510.01; Kings County; New York,59583.0
+36047051002,Census Tract 510.02; Kings County; New York,71007.0
+36047051100,Census Tract 511; Kings County; New York,88457.0
+36047051200,Census Tract 512; Kings County; New York,96719.0
+36047051300,Census Tract 513; Kings County; New York,136207.0
+36047051400,Census Tract 514; Kings County; New York,100000.0
+36047051500,Census Tract 515; Kings County; New York,246707.0
+36047051601,Census Tract 516.01; Kings County; New York,72304.0
+36047051602,Census Tract 516.02; Kings County; New York,77801.0
+36047051700,Census Tract 517; Kings County; New York,234444.0
+36047051800,Census Tract 518; Kings County; New York,112589.0
+36047051900,Census Tract 519; Kings County; New York,221375.0
+36047052000,Census Tract 520; Kings County; New York,126102.0
+36047052300,Census Tract 523; Kings County; New York,74454.0
+36047052500,Census Tract 525; Kings County; New York,70625.0
+36047052600,Census Tract 526; Kings County; New York,91500.0
+36047052700,Census Tract 527; Kings County; New York,59632.0
+36047052800,Census Tract 528; Kings County; New York,121000.0
+36047052900,Census Tract 529; Kings County; New York,39549.0
+36047053000,Census Tract 530; Kings County; New York,78621.0
+36047053101,Census Tract 531.01; Kings County; New York,
+36047053102,Census Tract 531.02; Kings County; New York,76635.0
+36047053200,Census Tract 532; Kings County; New York,72500.0
+36047053300,Census Tract 533; Kings County; New York,34519.0
+36047053400,Census Tract 534; Kings County; New York,83421.0
+36047053500,Census Tract 535; Kings County; New York,49244.0
+36047053700,Census Tract 537; Kings County; New York,44085.0
+36047053800,Census Tract 538; Kings County; New York,65556.0
+36047053900,Census Tract 539; Kings County; New York,46914.0
+36047054200,Census Tract 542; Kings County; New York,56481.0
+36047054300,Census Tract 543; Kings County; New York,
+36047054400,Census Tract 544; Kings County; New York,55938.0
+36047054500,Census Tract 545; Kings County; New York,42071.0
+36047054600,Census Tract 546; Kings County; New York,74651.0
+36047054700,Census Tract 547; Kings County; New York,87047.0
+36047054800,Census Tract 548; Kings County; New York,83500.0
+36047054900,Census Tract 549; Kings County; New York,183091.0
+36047055000,Census Tract 550; Kings County; New York,59955.0
+36047055100,Census Tract 551; Kings County; New York,171952.0
+36047055200,Census Tract 552; Kings County; New York,69861.0
+36047055300,Census Tract 553; Kings County; New York,144083.0
+36047055400,Census Tract 554; Kings County; New York,64894.0
+36047055500,Census Tract 555; Kings County; New York,205860.0
+36047055600,Census Tract 556; Kings County; New York,69485.0
+36047055700,Census Tract 557; Kings County; New York,136250.0
+36047055800,Census Tract 558; Kings County; New York,61786.0
+36047056000,Census Tract 560; Kings County; New York,74104.0
+36047056100,Census Tract 561; Kings County; New York,151875.0
+36047056200,Census Tract 562; Kings County; New York,102083.0
+36047056301,Census Tract 563.01; Kings County; New York,133636.0
+36047056302,Census Tract 563.02; Kings County; New York,76351.0
+36047056400,Census Tract 564; Kings County; New York,86392.0
+36047056500,Census Tract 565; Kings County; New York,115329.0
+36047056600,Census Tract 566; Kings County; New York,69286.0
+36047056800,Census Tract 568; Kings County; New York,75521.0
+36047056900,Census Tract 569; Kings County; New York,159286.0
+36047057000,Census Tract 570; Kings County; New York,80216.0
+36047057100,Census Tract 571; Kings County; New York,125272.0
+36047057200,Census Tract 572; Kings County; New York,31864.0
+36047057300,Census Tract 573; Kings County; New York,150885.0
+36047057400,Census Tract 574; Kings County; New York,92813.0
+36047057500,Census Tract 575; Kings County; New York,128804.0
+36047057600,Census Tract 576; Kings County; New York,98750.0
+36047057800,Census Tract 578; Kings County; New York,61919.0
+36047057901,Census Tract 579.01; Kings County; New York,141754.0
+36047057902,Census Tract 579.02; Kings County; New York,
+36047058000,Census Tract 580; Kings County; New York,38945.0
+36047058200,Census Tract 582; Kings County; New York,60811.0
+36047058400,Census Tract 584; Kings County; New York,70870.0
+36047058600,Census Tract 586; Kings County; New York,70167.0
+36047058800,Census Tract 588; Kings County; New York,96838.0
+36047058901,Census Tract 589.01; Kings County; New York,114659.0
+36047058902,Census Tract 589.02; Kings County; New York,
+36047059000,Census Tract 590; Kings County; New York,103619.0
+36047059100,Census Tract 591; Kings County; New York,133795.0
+36047059200,Census Tract 592; Kings County; New York,61944.0
+36047059300,Census Tract 593; Kings County; New York,110625.0
+36047059402,Census Tract 594.02; Kings County; New York,68625.0
+36047059403,Census Tract 594.03; Kings County; New York,67232.0
+36047059404,Census Tract 594.04; Kings County; New York,65520.0
+36047059600,Census Tract 596; Kings County; New York,56757.0
+36047059800,Census Tract 598; Kings County; New York,81051.0
+36047060000,Census Tract 600; Kings County; New York,75671.0
+36047060600,Census Tract 606; Kings County; New York,76080.0
+36047060800,Census Tract 608; Kings County; New York,73546.0
+36047061002,Census Tract 610.02; Kings County; New York,71944.0
+36047061003,Census Tract 610.03; Kings County; New York,51054.0
+36047061004,Census Tract 610.04; Kings County; New York,40931.0
+36047061200,Census Tract 612; Kings County; New York,141094.0
+36047061600,Census Tract 616; Kings County; New York,183095.0
+36047062000,Census Tract 620; Kings County; New York,111932.0
+36047062200,Census Tract 622; Kings County; New York,68821.0
+36047062600,Census Tract 626; Kings County; New York,67218.0
+36047062800,Census Tract 628; Kings County; New York,110377.0
+36047063200,Census Tract 632; Kings County; New York,82941.0
+36047063600,Census Tract 636; Kings County; New York,148056.0
+36047063800,Census Tract 638; Kings County; New York,82188.0
+36047064000,Census Tract 640; Kings County; New York,143214.0
+36047064200,Census Tract 642; Kings County; New York,75735.0
+36047064400,Census Tract 644; Kings County; New York,79259.0
+36047064600,Census Tract 646; Kings County; New York,99067.0
+36047064800,Census Tract 648; Kings County; New York,111406.0
+36047065000,Census Tract 650; Kings County; New York,92673.0
+36047065200,Census Tract 652; Kings County; New York,94000.0
+36047065400,Census Tract 654; Kings County; New York,118000.0
+36047065600,Census Tract 656; Kings County; New York,126607.0
+36047065800,Census Tract 658; Kings County; New York,92014.0
+36047066000,Census Tract 660; Kings County; New York,151719.0
+36047066200,Census Tract 662; Kings County; New York,61083.0
+36047066600,Census Tract 666; Kings County; New York,
+36047067000,Census Tract 670; Kings County; New York,91979.0
+36047067200,Census Tract 672; Kings County; New York,84280.0
+36047067400,Census Tract 674; Kings County; New York,126705.0
+36047067600,Census Tract 676; Kings County; New York,97750.0
+36047067800,Census Tract 678; Kings County; New York,84612.0
+36047068000,Census Tract 680; Kings County; New York,114904.0
+36047068200,Census Tract 682; Kings County; New York,102000.0
+36047068600,Census Tract 686; Kings County; New York,112646.0
+36047068800,Census Tract 688; Kings County; New York,98750.0
+36047069000,Census Tract 690; Kings County; New York,137650.0
+36047069200,Census Tract 692; Kings County; New York,104712.0
+36047069601,Census Tract 696.01; Kings County; New York,101760.0
+36047069602,Census Tract 696.02; Kings County; New York,119451.0
+36047069800,Census Tract 698; Kings County; New York,128194.0
+36047070000,Census Tract 700; Kings County; New York,95331.0
+36047070201,Census Tract 702.01; Kings County; New York,130174.0
+36047070202,Census Tract 702.02; Kings County; New York,
+36047070203,Census Tract 702.03; Kings County; New York,
+36047070601,Census Tract 706.01; Kings County; New York,148214.0
+36047070602,Census Tract 706.02; Kings County; New York,
+36047072000,Census Tract 720; Kings County; New York,76912.0
+36047072200,Census Tract 722; Kings County; New York,
+36047072400,Census Tract 724; Kings County; New York,69263.0
+36047072600,Census Tract 726; Kings County; New York,97292.0
+36047072800,Census Tract 728; Kings County; New York,62333.0
+36047073000,Census Tract 730; Kings County; New York,132227.0
+36047073200,Census Tract 732; Kings County; New York,85846.0
+36047073400,Census Tract 734; Kings County; New York,138750.0
+36047073600,Census Tract 736; Kings County; New York,82358.0
+36047073800,Census Tract 738; Kings County; New York,73125.0
+36047074000,Census Tract 740; Kings County; New York,68125.0
+36047074200,Census Tract 742; Kings County; New York,80240.0
+36047074400,Census Tract 744; Kings County; New York,140391.0
+36047074600,Census Tract 746; Kings County; New York,113750.0
+36047074800,Census Tract 748; Kings County; New York,82266.0
+36047075000,Census Tract 750; Kings County; New York,103125.0
+36047075200,Census Tract 752; Kings County; New York,141250.0
+36047075400,Census Tract 754; Kings County; New York,115851.0
+36047075600,Census Tract 756; Kings County; New York,77273.0
+36047075800,Census Tract 758; Kings County; New York,69662.0
+36047076000,Census Tract 760; Kings County; New York,75174.0
+36047076200,Census Tract 762; Kings County; New York,54725.0
+36047076400,Census Tract 764; Kings County; New York,81813.0
+36047076600,Census Tract 766; Kings County; New York,95563.0
+36047076800,Census Tract 768; Kings County; New York,73125.0
+36047077000,Census Tract 770; Kings County; New York,76921.0
+36047077200,Census Tract 772; Kings County; New York,80855.0
+36047077400,Census Tract 774; Kings County; New York,72488.0
+36047077600,Census Tract 776; Kings County; New York,71983.0
+36047078000,Census Tract 780; Kings County; New York,138611.0
+36047078200,Census Tract 782; Kings County; New York,69558.0
+36047078400,Census Tract 784; Kings County; New York,99653.0
+36047078601,Census Tract 786.01; Kings County; New York,87614.0
+36047078602,Census Tract 786.02; Kings County; New York,69615.0
+36047078801,Census Tract 788.01; Kings County; New York,55984.0
+36047078802,Census Tract 788.02; Kings County; New York,55179.0
+36047079001,Census Tract 790.01; Kings County; New York,67857.0
+36047079002,Census Tract 790.02; Kings County; New York,57672.0
+36047079201,Census Tract 792.01; Kings County; New York,88162.0
+36047079202,Census Tract 792.02; Kings County; New York,85833.0
+36047079400,Census Tract 794; Kings County; New York,128295.0
+36047079601,Census Tract 796.01; Kings County; New York,81629.0
+36047079602,Census Tract 796.02; Kings County; New York,77370.0
+36047079801,Census Tract 798.01; Kings County; New York,94375.0
+36047079802,Census Tract 798.02; Kings County; New York,100438.0
+36047080000,Census Tract 800; Kings County; New York,95769.0
+36047080200,Census Tract 802; Kings County; New York,98942.0
+36047080400,Census Tract 804; Kings County; New York,58413.0
+36047080600,Census Tract 806; Kings County; New York,66632.0
+36047080800,Census Tract 808; Kings County; New York,13337.0
+36047081000,Census Tract 810; Kings County; New York,88490.0
+36047081400,Census Tract 814; Kings County; New York,86705.0
+36047081600,Census Tract 816; Kings County; New York,92784.0
+36047081800,Census Tract 818; Kings County; New York,76607.0
+36047082000,Census Tract 820; Kings County; New York,56250.0
+36047082200,Census Tract 822; Kings County; New York,85645.0
+36047082400,Census Tract 824; Kings County; New York,57204.0
+36047082600,Census Tract 826; Kings County; New York,72543.0
+36047082800,Census Tract 828; Kings County; New York,61313.0
+36047083000,Census Tract 830; Kings County; New York,83690.0
+36047083200,Census Tract 832; Kings County; New York,100161.0
+36047083400,Census Tract 834; Kings County; New York,121000.0
+36047083600,Census Tract 836; Kings County; New York,96094.0
+36047083800,Census Tract 838; Kings County; New York,62950.0
+36047084000,Census Tract 840; Kings County; New York,81058.0
+36047084600,Census Tract 846; Kings County; New York,78304.0
+36047084800,Census Tract 848; Kings County; New York,86012.0
+36047085000,Census Tract 850; Kings County; New York,124219.0
+36047085200,Census Tract 852; Kings County; New York,
+36047085400,Census Tract 854; Kings County; New York,78828.0
+36047085600,Census Tract 856; Kings County; New York,79107.0
+36047085800,Census Tract 858; Kings County; New York,83640.0
+36047086000,Census Tract 860; Kings County; New York,77955.0
+36047086200,Census Tract 862; Kings County; New York,50438.0
+36047086400,Census Tract 864; Kings County; New York,71016.0
+36047086600,Census Tract 866; Kings County; New York,79508.0
+36047086800,Census Tract 868; Kings County; New York,45764.0
+36047087000,Census Tract 870; Kings County; New York,61136.0
+36047087200,Census Tract 872; Kings County; New York,67650.0
+36047087401,Census Tract 874.01; Kings County; New York,37207.0
+36047087600,Census Tract 876; Kings County; New York,48125.0
+36047087800,Census Tract 878; Kings County; New York,56633.0
+36047088001,Census Tract 880.01; Kings County; New York,42351.0
+36047088002,Census Tract 880.02; Kings County; New York,73750.0
+36047088200,Census Tract 882; Kings County; New York,50754.0
+36047088400,Census Tract 884; Kings County; New York,38594.0
+36047088600,Census Tract 886; Kings County; New York,57674.0
+36047088800,Census Tract 888; Kings County; New York,55053.0
+36047089000,Census Tract 890; Kings County; New York,72535.0
+36047089200,Census Tract 892; Kings County; New York,
+36047089400,Census Tract 894; Kings County; New York,63125.0
+36047089600,Census Tract 896; Kings County; New York,
+36047089800,Census Tract 898; Kings County; New York,66976.0
+36047090000,Census Tract 900; Kings County; New York,20500.0
+36047090200,Census Tract 902; Kings County; New York,42612.0
+36047090600,Census Tract 906; Kings County; New York,27908.0
+36047090800,Census Tract 908; Kings County; New York,44875.0
+36047091000,Census Tract 910; Kings County; New York,22321.0
+36047091200,Census Tract 912; Kings County; New York,36899.0
+36047091600,Census Tract 916; Kings County; New York,44825.0
+36047091800,Census Tract 918; Kings County; New York,45942.0
+36047092000,Census Tract 920; Kings County; New York,44978.0
+36047092200,Census Tract 922; Kings County; New York,50994.0
+36047092400,Census Tract 924; Kings County; New York,37271.0
+36047092800,Census Tract 928; Kings County; New York,82250.0
+36047093000,Census Tract 930; Kings County; New York,105848.0
+36047093200,Census Tract 932; Kings County; New York,
+36047093400,Census Tract 934; Kings County; New York,73321.0
+36047093600,Census Tract 936; Kings County; New York,79773.0
+36047093800,Census Tract 938; Kings County; New York,61827.0
+36047094401,Census Tract 944.01; Kings County; New York,82500.0
+36047094402,Census Tract 944.02; Kings County; New York,24676.0
+36047094600,Census Tract 946; Kings County; New York,93667.0
+36047095000,Census Tract 950; Kings County; New York,90083.0
+36047095400,Census Tract 954; Kings County; New York,108309.0
+36047095600,Census Tract 956; Kings County; New York,85603.0
+36047095800,Census Tract 958; Kings County; New York,66452.0
+36047096000,Census Tract 960; Kings County; New York,
+36047096200,Census Tract 962; Kings County; New York,73750.0
+36047096400,Census Tract 964; Kings County; New York,79934.0
+36047096600,Census Tract 966; Kings County; New York,76174.0
+36047096800,Census Tract 968; Kings County; New York,106250.0
+36047097000,Census Tract 970; Kings County; New York,108864.0
+36047097400,Census Tract 974; Kings County; New York,88688.0
+36047098200,Census Tract 982; Kings County; New York,25125.0
+36047098400,Census Tract 984; Kings County; New York,102200.0
+36047098600,Census Tract 986; Kings County; New York,95508.0
+36047098800,Census Tract 988; Kings County; New York,81985.0
+36047099000,Census Tract 990; Kings County; New York,95326.0
+36047099200,Census Tract 992; Kings County; New York,95597.0
+36047099400,Census Tract 994; Kings County; New York,92738.0
+36047099600,Census Tract 996; Kings County; New York,86426.0
+36047099800,Census Tract 998; Kings County; New York,98153.0
+36047100400,Census Tract 1004; Kings County; New York,67063.0
+36047100600,Census Tract 1006; Kings County; New York,120518.0
+36047100800,Census Tract 1008; Kings County; New York,79250.0
+36047101000,Census Tract 1010; Kings County; New York,72115.0
+36047101200,Census Tract 1012; Kings County; New York,96726.0
+36047101400,Census Tract 1014; Kings County; New York,67961.0
+36047101600,Census Tract 1016; Kings County; New York,179803.0
+36047101800,Census Tract 1018; Kings County; New York,101996.0
+36047102000,Census Tract 1020; Kings County; New York,138672.0
+36047102200,Census Tract 1022; Kings County; New York,84063.0
+36047102400,Census Tract 1024; Kings County; New York,72955.0
+36047102600,Census Tract 1026; Kings County; New York,89055.0
+36047102801,Census Tract 1028.01; Kings County; New York,47063.0
+36047102802,Census Tract 1028.02; Kings County; New York,
+36047103401,Census Tract 1034.01; Kings County; New York,17853.0
+36047103402,Census Tract 1034.02; Kings County; New York,
+36047105801,Census Tract 1058.01; Kings County; New York,20988.0
+36047105804,Census Tract 1058.04; Kings County; New York,38380.0
+36047107001,Census Tract 1070.01; Kings County; New York,62028.0
+36047107002,Census Tract 1070.02; Kings County; New York,
+36047107003,Census Tract 1070.03; Kings County; New York,
+36047107800,Census Tract 1078; Kings County; New York,85947.0
+36047109800,Census Tract 1098; Kings County; New York,71635.0
+36047110400,Census Tract 1104; Kings County; New York,72229.0
+36047110600,Census Tract 1106; Kings County; New York,26536.0
+36047111000,Census Tract 1110; Kings County; New York,35174.0
+36047111600,Census Tract 1116; Kings County; New York,71021.0
+36047111800,Census Tract 1118; Kings County; New York,66838.0
+36047112000,Census Tract 1120; Kings County; New York,72167.0
+36047112200,Census Tract 1122; Kings County; New York,44188.0
+36047112400,Census Tract 1124; Kings County; New York,65472.0
+36047112600,Census Tract 1126; Kings County; New York,52039.0
+36047112800,Census Tract 1128; Kings County; New York,50426.0
+36047113000,Census Tract 1130; Kings County; New York,51938.0
+36047113200,Census Tract 1132; Kings County; New York,46812.0
+36047113400,Census Tract 1134; Kings County; New York,47994.0
+36047114201,Census Tract 1142.01; Kings County; New York,39531.0
+36047114202,Census Tract 1142.02; Kings County; New York,57826.0
+36047114400,Census Tract 1144; Kings County; New York,82422.0
+36047114600,Census Tract 1146; Kings County; New York,82228.0
+36047115000,Census Tract 1150; Kings County; New York,71044.0
+36047115200,Census Tract 1152; Kings County; New York,58542.0
+36047115600,Census Tract 1156; Kings County; New York,
+36047115800,Census Tract 1158; Kings County; New York,80091.0
+36047116000,Census Tract 1160; Kings County; New York,63839.0
+36047116200,Census Tract 1162; Kings County; New York,72614.0
+36047116400,Census Tract 1164; Kings County; New York,76713.0
+36047116600,Census Tract 1166; Kings County; New York,42158.0
+36047116800,Census Tract 1168; Kings County; New York,86563.0
+36047117000,Census Tract 1170; Kings County; New York,27840.0
+36047117201,Census Tract 1172.01; Kings County; New York,73214.0
+36047117202,Census Tract 1172.02; Kings County; New York,78190.0
+36047117400,Census Tract 1174; Kings County; New York,46583.0
+36047117601,Census Tract 1176.01; Kings County; New York,80882.0
+36047117602,Census Tract 1176.02; Kings County; New York,86848.0
+36047117800,Census Tract 1178; Kings County; New York,59034.0
+36047118000,Census Tract 1180; Kings County; New York,
+36047118201,Census Tract 1182.01; Kings County; New York,82976.0
+36047118202,Census Tract 1182.02; Kings County; New York,91802.0
+36047118400,Census Tract 1184; Kings County; New York,68093.0
+36047118600,Census Tract 1186; Kings County; New York,78971.0
+36047118800,Census Tract 1188; Kings County; New York,75394.0
+36047119000,Census Tract 1190; Kings County; New York,39733.0
+36047119200,Census Tract 1192; Kings County; New York,89286.0
+36047119400,Census Tract 1194; Kings County; New York,84332.0
+36047119600,Census Tract 1196; Kings County; New York,56513.0
+36047119800,Census Tract 1198; Kings County; New York,60289.0
+36047120000,Census Tract 1200; Kings County; New York,47031.0
+36047120200,Census Tract 1202; Kings County; New York,100559.0
+36047120801,Census Tract 1208.01; Kings County; New York,109091.0
+36047120802,Census Tract 1208.02; Kings County; New York,30853.0
+36047120803,Census Tract 1208.03; Kings County; New York,45125.0
+36047121000,Census Tract 1210; Kings County; New York,23136.0
+36047121400,Census Tract 1214; Kings County; New York,38094.0
+36047122000,Census Tract 1220; Kings County; New York,83594.0
+36047123700,Census Tract 1237; Kings County; New York,55861.0
+36047150200,Census Tract 1502; Kings County; New York,132727.0
+36047152200,Census Tract 1522; Kings County; New York,215602.0
+36047990100,Census Tract 9901; Kings County; New York,
+36061000100,Census Tract 1; New York County; New York,
+36061000201,Census Tract 2.01; New York County; New York,37353.0
+36061000202,Census Tract 2.02; New York County; New York,36688.0
+36061000500,Census Tract 5; New York County; New York,
+36061000600,Census Tract 6; New York County; New York,36893.0
+36061000700,Census Tract 7; New York County; New York,190388.0
+36061000800,Census Tract 8; New York County; New York,31262.0
+36061000900,Census Tract 9; New York County; New York,250001.0
+36061001001,Census Tract 10.01; New York County; New York,140000.0
+36061001002,Census Tract 10.02; New York County; New York,23796.0
+36061001200,Census Tract 12; New York County; New York,114318.0
+36061001300,Census Tract 13; New York County; New York,171923.0
+36061001401,Census Tract 14.01; New York County; New York,103750.0
+36061001402,Census Tract 14.02; New York County; New York,90469.0
+36061001501,Census Tract 15.01; New York County; New York,125712.0
+36061001502,Census Tract 15.02; New York County; New York,204310.0
+36061001600,Census Tract 16; New York County; New York,35875.0
+36061001800,Census Tract 18; New York County; New York,76726.0
+36061002000,Census Tract 20; New York County; New York,30792.0
+36061002100,Census Tract 21; New York County; New York,250001.0
+36061002201,Census Tract 22.01; New York County; New York,39961.0
+36061002202,Census Tract 22.02; New York County; New York,151711.0
+36061002400,Census Tract 24; New York County; New York,21092.0
+36061002500,Census Tract 25; New York County; New York,20597.0
+36061002601,Census Tract 26.01; New York County; New York,30350.0
+36061002602,Census Tract 26.02; New York County; New York,89970.0
+36061002700,Census Tract 27; New York County; New York,124063.0
+36061002800,Census Tract 28; New York County; New York,70691.0
+36061002901,Census Tract 29.01; New York County; New York,11094.0
+36061002902,Census Tract 29.02; New York County; New York,
+36061003001,Census Tract 30.01; New York County; New York,88889.0
+36061003002,Census Tract 30.02; New York County; New York,74691.0
+36061003100,Census Tract 31; New York County; New York,189250.0
+36061003200,Census Tract 32; New York County; New York,101294.0
+36061003300,Census Tract 33; New York County; New York,250001.0
+36061003400,Census Tract 34; New York County; New York,121413.0
+36061003601,Census Tract 36.01; New York County; New York,57000.0
+36061003602,Census Tract 36.02; New York County; New York,155000.0
+36061003700,Census Tract 37; New York County; New York,250001.0
+36061003800,Census Tract 38; New York County; New York,78220.0
+36061003900,Census Tract 39; New York County; New York,202542.0
+36061004001,Census Tract 40.01; New York County; New York,150661.0
+36061004002,Census Tract 40.02; New York County; New York,196833.0
+36061004100,Census Tract 41; New York County; New York,101893.0
+36061004200,Census Tract 42; New York County; New York,131083.0
+36061004300,Census Tract 43; New York County; New York,122730.0
+36061004400,Census Tract 44; New York County; New York,153280.0
+36061004500,Census Tract 45; New York County; New York,170714.0
+36061004700,Census Tract 47; New York County; New York,148750.0
+36061004800,Census Tract 48; New York County; New York,161973.0
+36061004900,Census Tract 49; New York County; New York,146967.0
+36061005000,Census Tract 50; New York County; New York,205250.0
+36061005200,Census Tract 52; New York County; New York,238750.0
+36061005400,Census Tract 54; New York County; New York,124732.0
+36061005501,Census Tract 55.01; New York County; New York,214306.0
+36061005502,Census Tract 55.02; New York County; New York,179844.0
+36061005600,Census Tract 56; New York County; New York,183068.0
+36061005700,Census Tract 57; New York County; New York,201116.0
+36061005800,Census Tract 58; New York County; New York,206827.0
+36061005900,Census Tract 59; New York County; New York,181375.0
+36061006000,Census Tract 60; New York County; New York,202600.0
+36061006100,Census Tract 61; New York County; New York,179167.0
+36061006200,Census Tract 62; New York County; New York,104255.0
+36061006300,Census Tract 63; New York County; New York,173995.0
+36061006400,Census Tract 64; New York County; New York,130385.0
+36061006500,Census Tract 65; New York County; New York,133781.0
+36061006600,Census Tract 66; New York County; New York,101990.0
+36061006700,Census Tract 67; New York County; New York,131304.0
+36061006800,Census Tract 68; New York County; New York,128919.0
+36061006900,Census Tract 69; New York County; New York,238563.0
+36061007001,Census Tract 70.01; New York County; New York,163287.0
+36061007002,Census Tract 70.02; New York County; New York,154965.0
+36061007100,Census Tract 71; New York County; New York,150449.0
+36061007200,Census Tract 72; New York County; New York,136979.0
+36061007300,Census Tract 73; New York County; New York,175590.0
+36061007400,Census Tract 74; New York County; New York,215511.0
+36061007500,Census Tract 75; New York County; New York,187647.0
+36061007600,Census Tract 76; New York County; New York,193644.0
+36061007700,Census Tract 77; New York County; New York,230044.0
+36061007800,Census Tract 78; New York County; New York,134092.0
+36061007900,Census Tract 79; New York County; New York,200079.0
+36061008000,Census Tract 80; New York County; New York,177105.0
+36061008100,Census Tract 81; New York County; New York,134538.0
+36061008200,Census Tract 82; New York County; New York,162143.0
+36061008300,Census Tract 83; New York County; New York,75000.0
+36061008400,Census Tract 84; New York County; New York,231546.0
+36061008601,Census Tract 86.01; New York County; New York,145054.0
+36061008602,Census Tract 86.02; New York County; New York,
+36061008603,Census Tract 86.03; New York County; New York,200735.0
+36061008700,Census Tract 87; New York County; New York,150384.0
+36061008800,Census Tract 88; New York County; New York,112782.0
+36061008900,Census Tract 89; New York County; New York,102260.0
+36061009000,Census Tract 90; New York County; New York,156381.0
+36061009100,Census Tract 91; New York County; New York,160866.0
+36061009200,Census Tract 92; New York County; New York,166638.0
+36061009300,Census Tract 93; New York County; New York,122586.0
+36061009400,Census Tract 94; New York County; New York,81875.0
+36061009500,Census Tract 95; New York County; New York,222321.0
+36061009600,Census Tract 96; New York County; New York,
+36061009700,Census Tract 97; New York County; New York,71537.0
+36061009800,Census Tract 98; New York County; New York,171745.0
+36061009901,Census Tract 99.01; New York County; New York,250001.0
+36061009902,Census Tract 99.02; New York County; New York,162845.0
+36061009903,Census Tract 99.03; New York County; New York,187596.0
+36061010000,Census Tract 100; New York County; New York,99875.0
+36061010100,Census Tract 101; New York County; New York,108304.0
+36061010200,Census Tract 102; New York County; New York,
+36061010300,Census Tract 103; New York County; New York,180200.0
+36061010400,Census Tract 104; New York County; New York,193026.0
+36061010601,Census Tract 106.01; New York County; New York,249091.0
+36061010602,Census Tract 106.02; New York County; New York,207717.0
+36061010801,Census Tract 108.01; New York County; New York,160719.0
+36061010802,Census Tract 108.02; New York County; New York,134004.0
+36061010803,Census Tract 108.03; New York County; New York,119178.0
+36061010900,Census Tract 109; New York County; New York,163542.0
+36061011000,Census Tract 110; New York County; New York,150164.0
+36061011100,Census Tract 111; New York County; New York,104451.0
+36061011201,Census Tract 112.01; New York County; New York,163750.0
+36061011202,Census Tract 112.02; New York County; New York,211563.0
+36061011203,Census Tract 112.03; New York County; New York,167083.0
+36061011300,Census Tract 113; New York County; New York,93750.0
+36061011401,Census Tract 114.01; New York County; New York,155809.0
+36061011402,Census Tract 114.02; New York County; New York,206818.0
+36061011500,Census Tract 115; New York County; New York,138750.0
+36061011600,Census Tract 116; New York County; New York,90212.0
+36061011700,Census Tract 117; New York County; New York,116048.0
+36061011800,Census Tract 118; New York County; New York,139332.0
+36061011900,Census Tract 119; New York County; New York,18050.0
+36061012000,Census Tract 120; New York County; New York,192644.0
+36061012101,Census Tract 121.01; New York County; New York,63690.0
+36061012102,Census Tract 121.02; New York County; New York,62727.0
+36061012200,Census Tract 122; New York County; New York,222909.0
+36061012400,Census Tract 124; New York County; New York,120709.0
+36061012500,Census Tract 125; New York County; New York,171250.0
+36061012601,Census Tract 126.01; New York County; New York,136781.0
+36061012602,Census Tract 126.02; New York County; New York,232600.0
+36061012700,Census Tract 127; New York County; New York,120214.0
+36061012800,Census Tract 128; New York County; New York,220256.0
+36061012901,Census Tract 129.01; New York County; New York,110917.0
+36061012902,Census Tract 129.02; New York County; New York,128625.0
+36061013000,Census Tract 130; New York County; New York,212414.0
+36061013100,Census Tract 131; New York County; New York,136346.0
+36061013201,Census Tract 132.01; New York County; New York,162054.0
+36061013202,Census Tract 132.02; New York County; New York,101836.0
+36061013203,Census Tract 132.03; New York County; New York,122083.0
+36061013300,Census Tract 133; New York County; New York,156829.0
+36061013400,Census Tract 134; New York County; New York,122163.0
+36061013501,Census Tract 135.01; New York County; New York,99265.0
+36061013502,Census Tract 135.02; New York County; New York,95693.0
+36061013601,Census Tract 136.01; New York County; New York,250001.0
+36061013602,Census Tract 136.02; New York County; New York,188628.0
+36061013603,Census Tract 136.03; New York County; New York,171912.0
+36061013604,Census Tract 136.04; New York County; New York,168970.0
+36061013700,Census Tract 137; New York County; New York,167929.0
+36061013800,Census Tract 138; New York County; New York,141343.0
+36061013900,Census Tract 139; New York County; New York,108071.0
+36061014000,Census Tract 140; New York County; New York,220066.0
+36061014200,Census Tract 142; New York County; New York,250001.0
+36061014300,Census Tract 143; New York County; New York,
+36061014401,Census Tract 144.01; New York County; New York,202966.0
+36061014402,Census Tract 144.02; New York County; New York,163086.0
+36061014500,Census Tract 145; New York County; New York,186389.0
+36061014601,Census Tract 146.01; New York County; New York,139000.0
+36061014602,Census Tract 146.02; New York County; New York,132457.0
+36061014700,Census Tract 147; New York County; New York,202250.0
+36061014801,Census Tract 148.01; New York County; New York,202670.0
+36061014802,Census Tract 148.02; New York County; New York,179304.0
+36061014900,Census Tract 149; New York County; New York,184896.0
+36061015001,Census Tract 150.01; New York County; New York,194659.0
+36061015002,Census Tract 150.02; New York County; New York,243480.0
+36061015101,Census Tract 151.01; New York County; New York,44107.0
+36061015102,Census Tract 151.02; New York County; New York,163274.0
+36061015200,Census Tract 152; New York County; New York,114940.0
+36061015301,Census Tract 153.01; New York County; New York,186949.0
+36061015302,Census Tract 153.02; New York County; New York,189453.0
+36061015401,Census Tract 154.01; New York County; New York,122860.0
+36061015402,Census Tract 154.02; New York County; New York,147589.0
+36061015403,Census Tract 154.03; New York County; New York,129848.0
+36061015501,Census Tract 155.01; New York County; New York,186563.0
+36061015502,Census Tract 155.02; New York County; New York,177841.0
+36061015601,Census Tract 156.01; New York County; New York,127741.0
+36061015602,Census Tract 156.02; New York County; New York,75147.0
+36061015700,Census Tract 157; New York County; New York,163712.0
+36061015801,Census Tract 158.01; New York County; New York,177750.0
+36061015802,Census Tract 158.02; New York County; New York,95391.0
+36061015900,Census Tract 159; New York County; New York,156830.0
+36061016001,Census Tract 160.01; New York County; New York,250001.0
+36061016002,Census Tract 160.02; New York County; New York,121216.0
+36061016100,Census Tract 161; New York County; New York,179179.0
+36061016200,Census Tract 162; New York County; New York,21942.0
+36061016300,Census Tract 163; New York County; New York,137829.0
+36061016400,Census Tract 164; New York County; New York,26544.0
+36061016500,Census Tract 165; New York County; New York,213661.0
+36061016600,Census Tract 166; New York County; New York,50231.0
+36061016700,Census Tract 167; New York County; New York,250001.0
+36061016800,Census Tract 168; New York County; New York,38833.0
+36061016900,Census Tract 169; New York County; New York,184268.0
+36061017000,Census Tract 170; New York County; New York,40027.0
+36061017100,Census Tract 171; New York County; New York,149587.0
+36061017200,Census Tract 172; New York County; New York,34024.0
+36061017300,Census Tract 173; New York County; New York,162625.0
+36061017401,Census Tract 174.01; New York County; New York,37975.0
+36061017402,Census Tract 174.02; New York County; New York,81364.0
+36061017500,Census Tract 175; New York County; New York,154118.0
+36061017700,Census Tract 177; New York County; New York,108429.0
+36061017800,Census Tract 178; New York County; New York,56875.0
+36061017900,Census Tract 179; New York County; New York,168859.0
+36061018000,Census Tract 180; New York County; New York,50560.0
+36061018100,Census Tract 181; New York County; New York,114966.0
+36061018200,Census Tract 182; New York County; New York,38942.0
+36061018300,Census Tract 183; New York County; New York,149367.0
+36061018400,Census Tract 184; New York County; New York,51866.0
+36061018500,Census Tract 185; New York County; New York,162188.0
+36061018600,Census Tract 186; New York County; New York,50862.0
+36061018700,Census Tract 187; New York County; New York,145459.0
+36061018800,Census Tract 188; New York County; New York,27237.0
+36061018900,Census Tract 189; New York County; New York,44263.0
+36061019000,Census Tract 190; New York County; New York,121438.0
+36061019100,Census Tract 191; New York County; New York,142500.0
+36061019200,Census Tract 192; New York County; New York,19525.0
+36061019300,Census Tract 193; New York County; New York,67090.0
+36061019400,Census Tract 194; New York County; New York,45750.0
+36061019500,Census Tract 195; New York County; New York,122103.0
+36061019600,Census Tract 196; New York County; New York,28069.0
+36061019701,Census Tract 197.01; New York County; New York,57292.0
+36061019702,Census Tract 197.02; New York County; New York,111250.0
+36061019800,Census Tract 198; New York County; New York,108250.0
+36061019900,Census Tract 199; New York County; New York,83929.0
+36061020000,Census Tract 200; New York County; New York,57034.0
+36061020101,Census Tract 201.01; New York County; New York,152250.0
+36061020102,Census Tract 201.02; New York County; New York,83375.0
+36061020300,Census Tract 203; New York County; New York,67528.0
+36061020500,Census Tract 205; New York County; New York,196576.0
+36061020600,Census Tract 206; New York County; New York,50864.0
+36061020701,Census Tract 207.01; New York County; New York,92788.0
+36061020800,Census Tract 208; New York County; New York,73197.0
+36061020901,Census Tract 209.01; New York County; New York,25357.0
+36061021000,Census Tract 210; New York County; New York,43645.0
+36061021100,Census Tract 211; New York County; New York,65753.0
+36061021200,Census Tract 212; New York County; New York,69702.0
+36061021303,Census Tract 213.03; New York County; New York,57119.0
+36061021400,Census Tract 214; New York County; New York,51068.0
+36061021500,Census Tract 215; New York County; New York,56884.0
+36061021600,Census Tract 216; New York County; New York,73831.0
+36061021703,Census Tract 217.03; New York County; New York,
+36061021800,Census Tract 218; New York County; New York,47193.0
+36061021900,Census Tract 219; New York County; New York,21938.0
+36061022000,Census Tract 220; New York County; New York,74151.0
+36061022102,Census Tract 221.02; New York County; New York,67669.0
+36061022200,Census Tract 222; New York County; New York,84071.0
+36061022301,Census Tract 223.01; New York County; New York,50668.0
+36061022302,Census Tract 223.02; New York County; New York,50238.0
+36061022400,Census Tract 224; New York County; New York,19326.0
+36061022500,Census Tract 225; New York County; New York,53424.0
+36061022600,Census Tract 226; New York County; New York,86559.0
+36061022700,Census Tract 227; New York County; New York,63574.0
+36061022800,Census Tract 228; New York County; New York,63413.0
+36061022900,Census Tract 229; New York County; New York,60346.0
+36061023000,Census Tract 230; New York County; New York,27860.0
+36061023100,Census Tract 231; New York County; New York,69949.0
+36061023200,Census Tract 232; New York County; New York,27967.0
+36061023300,Census Tract 233; New York County; New York,84927.0
+36061023400,Census Tract 234; New York County; New York,62346.0
+36061023501,Census Tract 235.01; New York County; New York,71893.0
+36061023502,Census Tract 235.02; New York County; New York,44491.0
+36061023600,Census Tract 236; New York County; New York,43679.0
+36061023700,Census Tract 237; New York County; New York,60404.0
+36061023802,Census Tract 238.02; New York County; New York,100870.0
+36061023803,Census Tract 238.03; New York County; New York,80724.0
+36061023804,Census Tract 238.04; New York County; New York,183536.0
+36061023900,Census Tract 239; New York County; New York,48816.0
+36061024000,Census Tract 240; New York County; New York,
+36061024100,Census Tract 241; New York County; New York,59500.0
+36061024200,Census Tract 242; New York County; New York,42617.0
+36061024301,Census Tract 243.01; New York County; New York,74226.0
+36061024302,Census Tract 243.02; New York County; New York,23574.0
+36061024500,Census Tract 245; New York County; New York,51403.0
+36061024700,Census Tract 247; New York County; New York,83605.0
+36061024900,Census Tract 249; New York County; New York,68000.0
+36061025100,Census Tract 251; New York County; New York,37839.0
+36061025300,Census Tract 253; New York County; New York,72763.0
+36061025500,Census Tract 255; New York County; New York,78315.0
+36061025700,Census Tract 257; New York County; New York,104033.0
+36061025900,Census Tract 259; New York County; New York,79429.0
+36061026100,Census Tract 261; New York County; New York,40352.0
+36061026300,Census Tract 263; New York County; New York,67024.0
+36061026500,Census Tract 265; New York County; New York,92434.0
+36061026700,Census Tract 267; New York County; New York,51250.0
+36061026900,Census Tract 269; New York County; New York,52389.0
+36061027100,Census Tract 271; New York County; New York,71595.0
+36061027300,Census Tract 273; New York County; New York,122654.0
+36061027500,Census Tract 275; New York County; New York,170000.0
+36061027700,Census Tract 277; New York County; New York,58086.0
+36061027900,Census Tract 279; New York County; New York,68596.0
+36061028100,Census Tract 281; New York County; New York,143194.0
+36061028300,Census Tract 283; New York County; New York,64803.0
+36061028500,Census Tract 285; New York County; New York,51026.0
+36061028700,Census Tract 287; New York County; New York,89476.0
+36061029100,Census Tract 291; New York County; New York,62348.0
+36061029300,Census Tract 293; New York County; New York,35987.0
+36061029500,Census Tract 295; New York County; New York,87108.0
+36061029700,Census Tract 297; New York County; New York,
+36061029900,Census Tract 299; New York County; New York,34731.0
+36061030300,Census Tract 303; New York County; New York,94208.0
+36061030700,Census Tract 307; New York County; New York,108073.0
+36061030900,Census Tract 309; New York County; New York,40438.0
+36061031100,Census Tract 311; New York County; New York,
+36061031703,Census Tract 317.03; New York County; New York,250001.0
+36061031704,Census Tract 317.04; New York County; New York,218917.0
+36061031900,Census Tract 319; New York County; New York,
+36081000101,Census Tract 1.01; Queens County; New York,134304.0
+36081000102,Census Tract 1.02; Queens County; New York,213135.0
+36081000103,Census Tract 1.03; Queens County; New York,
+36081000104,Census Tract 1.04; Queens County; New York,
+36081000200,Census Tract 2; Queens County; New York,84643.0
+36081000400,Census Tract 4; Queens County; New York,74107.0
+36081000600,Census Tract 6; Queens County; New York,101042.0
+36081000701,Census Tract 7.01; Queens County; New York,136875.0
+36081000702,Census Tract 7.02; Queens County; New York,132368.0
+36081000800,Census Tract 8; Queens County; New York,111856.0
+36081001000,Census Tract 10; Queens County; New York,85625.0
+36081001200,Census Tract 12; Queens County; New York,86524.0
+36081001400,Census Tract 14; Queens County; New York,80456.0
+36081001600,Census Tract 16; Queens County; New York,77500.0
+36081001800,Census Tract 18; Queens County; New York,118694.0
+36081001901,Census Tract 19.01; Queens County; New York,232109.0
+36081001902,Census Tract 19.02; Queens County; New York,171458.0
+36081001903,Census Tract 19.03; Queens County; New York,172986.0
+36081002000,Census Tract 20; Queens County; New York,138750.0
+36081002200,Census Tract 22; Queens County; New York,71667.0
+36081002400,Census Tract 24; Queens County; New York,88421.0
+36081002500,Census Tract 25; Queens County; New York,26044.0
+36081002600,Census Tract 26; Queens County; New York,135267.0
+36081002800,Census Tract 28; Queens County; New York,89545.0
+36081003000,Census Tract 30; Queens County; New York,120417.0
+36081003100,Census Tract 31; Queens County; New York,121908.0
+36081003200,Census Tract 32; Queens County; New York,130160.0
+36081003301,Census Tract 33.01; Queens County; New York,152056.0
+36081003302,Census Tract 33.02; Queens County; New York,80385.0
+36081003400,Census Tract 34; Queens County; New York,74922.0
+36081003600,Census Tract 36; Queens County; New York,64459.0
+36081003700,Census Tract 37; Queens County; New York,
+36081003800,Census Tract 38; Queens County; New York,86146.0
+36081003900,Census Tract 39; Queens County; New York,59988.0
+36081004001,Census Tract 40.01; Queens County; New York,92500.0
+36081004002,Census Tract 40.02; Queens County; New York,49379.0
+36081004200,Census Tract 42; Queens County; New York,67270.0
+36081004300,Census Tract 43; Queens County; New York,26814.0
+36081004401,Census Tract 44.01; Queens County; New York,61920.0
+36081004500,Census Tract 45; Queens County; New York,97462.0
+36081004700,Census Tract 47; Queens County; New York,56333.0
+36081005000,Census Tract 50; Queens County; New York,
+36081005100,Census Tract 51; Queens County; New York,90104.0
+36081005200,Census Tract 52; Queens County; New York,76300.0
+36081005300,Census Tract 53; Queens County; New York,113816.0
+36081005400,Census Tract 54; Queens County; New York,78633.0
+36081005500,Census Tract 55; Queens County; New York,81310.0
+36081005700,Census Tract 57; Queens County; New York,94142.0
+36081005800,Census Tract 58; Queens County; New York,91875.0
+36081005900,Census Tract 59; Queens County; New York,76813.0
+36081006100,Census Tract 61; Queens County; New York,106413.0
+36081006201,Census Tract 62.01; Queens County; New York,61954.0
+36081006202,Census Tract 62.02; Queens County; New York,91902.0
+36081006300,Census Tract 63; Queens County; New York,137746.0
+36081006501,Census Tract 65.01; Queens County; New York,94628.0
+36081006502,Census Tract 65.02; Queens County; New York,80539.0
+36081006900,Census Tract 69; Queens County; New York,121526.0
+36081007100,Census Tract 71; Queens County; New York,89562.0
+36081007300,Census Tract 73; Queens County; New York,101691.0
+36081007500,Census Tract 75; Queens County; New York,79634.0
+36081007700,Census Tract 77; Queens County; New York,139267.0
+36081007900,Census Tract 79; Queens County; New York,111875.0
+36081008100,Census Tract 81; Queens County; New York,122798.0
+36081008300,Census Tract 83; Queens County; New York,94803.0
+36081008500,Census Tract 85; Queens County; New York,82708.0
+36081008600,Census Tract 86; Queens County; New York,89667.0
+36081008700,Census Tract 87; Queens County; New York,
+36081008800,Census Tract 88; Queens County; New York,127313.0
+36081009100,Census Tract 91; Queens County; New York,99070.0
+36081009400,Census Tract 94; Queens County; New York,73636.0
+36081009500,Census Tract 95; Queens County; New York,127946.0
+36081009600,Census Tract 96; Queens County; New York,124423.0
+36081009700,Census Tract 97; Queens County; New York,121088.0
+36081009800,Census Tract 98; Queens County; New York,84458.0
+36081009900,Census Tract 99; Queens County; New York,
+36081010000,Census Tract 100; Queens County; New York,114327.0
+36081010100,Census Tract 101; Queens County; New York,147308.0
+36081010200,Census Tract 102; Queens County; New York,107270.0
+36081010300,Census Tract 103; Queens County; New York,84821.0
+36081010400,Census Tract 104; Queens County; New York,95781.0
+36081010500,Census Tract 105; Queens County; New York,65233.0
+36081010600,Census Tract 106; Queens County; New York,121250.0
+36081010701,Census Tract 107.01; Queens County; New York,
+36081010800,Census Tract 108; Queens County; New York,108299.0
+36081011000,Census Tract 110; Queens County; New York,77031.0
+36081011100,Census Tract 111; Queens County; New York,111125.0
+36081011200,Census Tract 112; Queens County; New York,69030.0
+36081011300,Census Tract 113; Queens County; New York,87393.0
+36081011400,Census Tract 114; Queens County; New York,121442.0
+36081011500,Census Tract 115; Queens County; New York,113370.0
+36081011600,Census Tract 116; Queens County; New York,71576.0
+36081011700,Census Tract 117; Queens County; New York,125550.0
+36081011800,Census Tract 118; Queens County; New York,86754.0
+36081011900,Census Tract 119; Queens County; New York,84886.0
+36081012000,Census Tract 120; Queens County; New York,82500.0
+36081012100,Census Tract 121; Queens County; New York,108125.0
+36081012200,Census Tract 122; Queens County; New York,118015.0
+36081012301,Census Tract 123.01; Queens County; New York,106328.0
+36081012400,Census Tract 124; Queens County; New York,71435.0
+36081012500,Census Tract 125; Queens County; New York,93309.0
+36081012601,Census Tract 126.01; Queens County; New York,82450.0
+36081012602,Census Tract 126.02; Queens County; New York,79531.0
+36081012800,Census Tract 128; Queens County; New York,103750.0
+36081013000,Census Tract 130; Queens County; New York,82708.0
+36081013200,Census Tract 132; Queens County; New York,84452.0
+36081013400,Census Tract 134; Queens County; New York,77073.0
+36081013500,Census Tract 135; Queens County; New York,103250.0
+36081013600,Census Tract 136; Queens County; New York,86601.0
+36081013700,Census Tract 137; Queens County; New York,108056.0
+36081013800,Census Tract 138; Queens County; New York,76938.0
+36081014000,Census Tract 140; Queens County; New York,117631.0
+36081014100,Census Tract 141; Queens County; New York,100568.0
+36081014201,Census Tract 142.01; Queens County; New York,70813.0
+36081014202,Census Tract 142.02; Queens County; New York,88750.0
+36081014300,Census Tract 143; Queens County; New York,95446.0
+36081014400,Census Tract 144; Queens County; New York,80101.0
+36081014500,Census Tract 145; Queens County; New York,88462.0
+36081014700,Census Tract 147; Queens County; New York,94180.0
+36081014800,Census Tract 148; Queens County; New York,
+36081014900,Census Tract 149; Queens County; New York,66000.0
+36081015000,Census Tract 150; Queens County; New York,91116.0
+36081015100,Census Tract 151; Queens County; New York,68932.0
+36081015200,Census Tract 152; Queens County; New York,82093.0
+36081015300,Census Tract 153; Queens County; New York,88636.0
+36081015400,Census Tract 154; Queens County; New York,69414.0
+36081015500,Census Tract 155; Queens County; New York,94375.0
+36081015600,Census Tract 156; Queens County; New York,79063.0
+36081015700,Census Tract 157; Queens County; New York,75982.0
+36081015801,Census Tract 158.01; Queens County; New York,98387.0
+36081015802,Census Tract 158.02; Queens County; New York,105149.0
+36081015900,Census Tract 159; Queens County; New York,71615.0
+36081016100,Census Tract 161; Queens County; New York,92042.0
+36081016300,Census Tract 163; Queens County; New York,35237.0
+36081016400,Census Tract 164; Queens County; New York,80568.0
+36081016600,Census Tract 166; Queens County; New York,78108.0
+36081016800,Census Tract 168; Queens County; New York,108173.0
+36081016900,Census Tract 169; Queens County; New York,89679.0
+36081017000,Census Tract 170; Queens County; New York,108229.0
+36081017101,Census Tract 171.01; Queens County; New York,
+36081017102,Census Tract 171.02; Queens County; New York,184083.0
+36081017200,Census Tract 172; Queens County; New York,74760.0
+36081017400,Census Tract 174; Queens County; New York,121759.0
+36081017600,Census Tract 176; Queens County; New York,83906.0
+36081017800,Census Tract 178; Queens County; New York,90096.0
+36081017901,Census Tract 179.01; Queens County; New York,81319.0
+36081017902,Census Tract 179.02; Queens County; New York,
+36081018000,Census Tract 180; Queens County; New York,80147.0
+36081018101,Census Tract 181.01; Queens County; New York,78864.0
+36081018102,Census Tract 181.02; Queens County; New York,83750.0
+36081018200,Census Tract 182; Queens County; New York,93043.0
+36081018300,Census Tract 183; Queens County; New York,71891.0
+36081018401,Census Tract 184.01; Queens County; New York,57679.0
+36081018402,Census Tract 184.02; Queens County; New York,89766.0
+36081018501,Census Tract 185.01; Queens County; New York,88027.0
+36081018502,Census Tract 185.02; Queens County; New York,112260.0
+36081018600,Census Tract 186; Queens County; New York,94840.0
+36081018700,Census Tract 187; Queens County; New York,89479.0
+36081018800,Census Tract 188; Queens County; New York,84688.0
+36081018900,Census Tract 189; Queens County; New York,93333.0
+36081019000,Census Tract 190; Queens County; New York,87051.0
+36081019200,Census Tract 192; Queens County; New York,93403.0
+36081019400,Census Tract 194; Queens County; New York,100938.0
+36081019600,Census Tract 196; Queens County; New York,72000.0
+36081019800,Census Tract 198; Queens County; New York,68828.0
+36081019901,Census Tract 199.01; Queens County; New York,
+36081019902,Census Tract 199.02; Queens County; New York,
+36081019903,Census Tract 199.03; Queens County; New York,
+36081020200,Census Tract 202; Queens County; New York,
+36081020400,Census Tract 204; Queens County; New York,63750.0
+36081020500,Census Tract 205; Queens County; New York,76786.0
+36081020600,Census Tract 206; Queens County; New York,56667.0
+36081020800,Census Tract 208; Queens County; New York,60486.0
+36081021200,Census Tract 212; Queens County; New York,70776.0
+36081021400,Census Tract 214; Queens County; New York,87356.0
+36081021601,Census Tract 216.01; Queens County; New York,92609.0
+36081021602,Census Tract 216.02; Queens County; New York,73446.0
+36081021603,Census Tract 216.03; Queens County; New York,
+36081021900,Census Tract 219; Queens County; New York,
+36081022001,Census Tract 220.01; Queens County; New York,86915.0
+36081022002,Census Tract 220.02; Queens County; New York,89600.0
+36081022900,Census Tract 229; Queens County; New York,
+36081023000,Census Tract 230; Queens County; New York,118494.0
+36081023200,Census Tract 232; Queens County; New York,102386.0
+36081023501,Census Tract 235.01; Queens County; New York,60044.0
+36081023502,Census Tract 235.02; Queens County; New York,82676.0
+36081023600,Census Tract 236; Queens County; New York,81557.0
+36081023800,Census Tract 238; Queens County; New York,59938.0
+36081024000,Census Tract 240; Queens County; New York,59421.0
+36081024300,Census Tract 243; Queens County; New York,60880.0
+36081024500,Census Tract 245; Queens County; New York,62647.0
+36081024600,Census Tract 246; Queens County; New York,
+36081024700,Census Tract 247; Queens County; New York,57143.0
+36081024900,Census Tract 249; Queens County; New York,76987.0
+36081025100,Census Tract 251; Queens County; New York,90996.0
+36081025301,Census Tract 253.01; Queens County; New York,70664.0
+36081025302,Census Tract 253.02; Queens County; New York,66393.0
+36081025401,Census Tract 254.01; Queens County; New York,76434.0
+36081025402,Census Tract 254.02; Queens County; New York,41822.0
+36081025500,Census Tract 255; Queens County; New York,92260.0
+36081025700,Census Tract 257; Queens County; New York,95139.0
+36081025800,Census Tract 258; Queens County; New York,107442.0
+36081025900,Census Tract 259; Queens County; New York,61289.0
+36081026000,Census Tract 260; Queens County; New York,63565.0
+36081026100,Census Tract 261; Queens County; New York,79419.0
+36081026200,Census Tract 262; Queens County; New York,83667.0
+36081026300,Census Tract 263; Queens County; New York,87232.0
+36081026400,Census Tract 264; Queens County; New York,86411.0
+36081026501,Census Tract 265.01; Queens County; New York,73641.0
+36081026502,Census Tract 265.02; Queens County; New York,74643.0
+36081026600,Census Tract 266; Queens County; New York,55441.0
+36081026700,Census Tract 267; Queens County; New York,58274.0
+36081026901,Census Tract 269.01; Queens County; New York,58163.0
+36081026902,Census Tract 269.02; Queens County; New York,53694.0
+36081027000,Census Tract 270; Queens County; New York,110938.0
+36081027101,Census Tract 271.01; Queens County; New York,54568.0
+36081027102,Census Tract 271.02; Queens County; New York,65786.0
+36081027200,Census Tract 272; Queens County; New York,97357.0
+36081027301,Census Tract 273.01; Queens County; New York,69631.0
+36081027302,Census Tract 273.02; Queens County; New York,81532.0
+36081027400,Census Tract 274; Queens County; New York,65234.0
+36081027500,Census Tract 275; Queens County; New York,66971.0
+36081027600,Census Tract 276; Queens County; New York,111250.0
+36081027701,Census Tract 277.01; Queens County; New York,67602.0
+36081027702,Census Tract 277.02; Queens County; New York,69521.0
+36081027800,Census Tract 278; Queens County; New York,51992.0
+36081027900,Census Tract 279; Queens County; New York,81417.0
+36081028000,Census Tract 280; Queens County; New York,80286.0
+36081028100,Census Tract 281; Queens County; New York,86631.0
+36081028200,Census Tract 282; Queens County; New York,92368.0
+36081028300,Census Tract 283; Queens County; New York,79340.0
+36081028400,Census Tract 284; Queens County; New York,72633.0
+36081028500,Census Tract 285; Queens County; New York,126991.0
+36081028700,Census Tract 287; Queens County; New York,83108.0
+36081028801,Census Tract 288.01; Queens County; New York,120234.0
+36081028802,Census Tract 288.02; Queens County; New York,89653.0
+36081028803,Census Tract 288.03; Queens County; New York,
+36081028900,Census Tract 289; Queens County; New York,83870.0
+36081029100,Census Tract 291; Queens County; New York,53384.0
+36081029300,Census Tract 293; Queens County; New York,70556.0
+36081029400,Census Tract 294; Queens County; New York,102984.0
+36081029500,Census Tract 295; Queens County; New York,81051.0
+36081029700,Census Tract 297; Queens County; New York,101538.0
+36081029900,Census Tract 299; Queens County; New York,
+36081030600,Census Tract 306; Queens County; New York,111458.0
+36081030903,Census Tract 309.03; Queens County; New York,75728.0
+36081030904,Census Tract 309.04; Queens County; New York,58726.0
+36081030905,Census Tract 309.05; Queens County; New York,74339.0
+36081030906,Census Tract 309.06; Queens County; New York,84907.0
+36081031700,Census Tract 317; Queens County; New York,75591.0
+36081032000,Census Tract 320; Queens County; New York,100417.0
+36081032700,Census Tract 327; Queens County; New York,88167.0
+36081032800,Census Tract 328; Queens County; New York,94398.0
+36081032900,Census Tract 329; Queens County; New York,66573.0
+36081033000,Census Tract 330; Queens County; New York,105013.0
+36081033100,Census Tract 331; Queens County; New York,
+36081033401,Census Tract 334.01; Queens County; New York,63892.0
+36081033403,Census Tract 334.03; Queens County; New York,53013.0
+36081033404,Census Tract 334.04; Queens County; New York,52574.0
+36081033405,Census Tract 334.05; Queens County; New York,86065.0
+36081033700,Census Tract 337; Queens County; New York,107750.0
+36081033900,Census Tract 339; Queens County; New York,69755.0
+36081034700,Census Tract 347; Queens County; New York,77025.0
+36081035100,Census Tract 351; Queens County; New York,85284.0
+36081035200,Census Tract 352; Queens County; New York,105139.0
+36081035300,Census Tract 353; Queens County; New York,104107.0
+36081035700,Census Tract 357; Queens County; New York,93153.0
+36081035800,Census Tract 358; Queens County; New York,97128.0
+36081036100,Census Tract 361; Queens County; New York,92500.0
+36081036300,Census Tract 363; Queens County; New York,76613.0
+36081036500,Census Tract 365; Queens County; New York,72031.0
+36081036600,Census Tract 366; Queens County; New York,75395.0
+36081036700,Census Tract 367; Queens County; New York,78200.0
+36081036800,Census Tract 368; Queens County; New York,125882.0
+36081037100,Census Tract 371; Queens County; New York,81607.0
+36081037300,Census Tract 373; Queens County; New York,59821.0
+36081037501,Census Tract 375.01; Queens County; New York,92647.0
+36081037502,Census Tract 375.02; Queens County; New York,70625.0
+36081037600,Census Tract 376; Queens County; New York,112955.0
+36081037700,Census Tract 377; Queens County; New York,81797.0
+36081037900,Census Tract 379; Queens County; New York,80927.0
+36081038100,Census Tract 381; Queens County; New York,83654.0
+36081038301,Census Tract 383.01; Queens County; New York,
+36081038302,Census Tract 383.02; Queens County; New York,
+36081038400,Census Tract 384; Queens County; New York,100337.0
+36081039400,Census Tract 394; Queens County; New York,100833.0
+36081039800,Census Tract 398; Queens County; New York,86948.0
+36081039901,Census Tract 399.01; Queens County; New York,118319.0
+36081039902,Census Tract 399.02; Queens County; New York,58640.0
+36081040000,Census Tract 400; Queens County; New York,112560.0
+36081040101,Census Tract 401.01; Queens County; New York,60338.0
+36081040102,Census Tract 401.02; Queens County; New York,75660.0
+36081040200,Census Tract 402; Queens County; New York,103214.0
+36081040301,Census Tract 403.01; Queens County; New York,37018.0
+36081040302,Census Tract 403.02; Queens County; New York,70179.0
+36081040400,Census Tract 404; Queens County; New York,87917.0
+36081040501,Census Tract 405.01; Queens County; New York,102682.0
+36081040502,Census Tract 405.02; Queens County; New York,74091.0
+36081040701,Census Tract 407.01; Queens County; New York,77944.0
+36081040702,Census Tract 407.02; Queens County; New York,99722.0
+36081040901,Census Tract 409.01; Queens County; New York,83320.0
+36081040902,Census Tract 409.02; Queens County; New York,84091.0
+36081041100,Census Tract 411; Queens County; New York,73899.0
+36081041300,Census Tract 413; Queens County; New York,72519.0
+36081041400,Census Tract 414; Queens County; New York,92939.0
+36081041500,Census Tract 415; Queens County; New York,63411.0
+36081042400,Census Tract 424; Queens County; New York,95855.0
+36081042600,Census Tract 426; Queens County; New York,
+36081042700,Census Tract 427; Queens County; New York,70921.0
+36081043200,Census Tract 432; Queens County; New York,92750.0
+36081043400,Census Tract 434; Queens County; New York,95057.0
+36081043701,Census Tract 437.01; Queens County; New York,60188.0
+36081043702,Census Tract 437.02; Queens County; New York,66731.0
+36081043900,Census Tract 439; Queens County; New York,68922.0
+36081044000,Census Tract 440; Queens County; New York,67463.0
+36081044301,Census Tract 443.01; Queens County; New York,36467.0
+36081044302,Census Tract 443.02; Queens County; New York,62731.0
+36081044400,Census Tract 444; Queens County; New York,46434.0
+36081044601,Census Tract 446.01; Queens County; New York,57614.0
+36081044602,Census Tract 446.02; Queens County; New York,45688.0
+36081044800,Census Tract 448; Queens County; New York,72371.0
+36081045000,Census Tract 450; Queens County; New York,148424.0
+36081045200,Census Tract 452; Queens County; New York,76071.0
+36081045400,Census Tract 454; Queens County; New York,84100.0
+36081045500,Census Tract 455; Queens County; New York,80100.0
+36081045600,Census Tract 456; Queens County; New York,75357.0
+36081045700,Census Tract 457; Queens County; New York,82176.0
+36081045800,Census Tract 458; Queens County; New York,79236.0
+36081045900,Census Tract 459; Queens County; New York,72279.0
+36081046000,Census Tract 460; Queens County; New York,57184.0
+36081046100,Census Tract 461; Queens County; New York,77000.0
+36081046200,Census Tract 462; Queens County; New York,60647.0
+36081046300,Census Tract 463; Queens County; New York,75539.0
+36081046400,Census Tract 464; Queens County; New York,118472.0
+36081046500,Census Tract 465; Queens County; New York,94125.0
+36081046600,Census Tract 466; Queens County; New York,76885.0
+36081046700,Census Tract 467; Queens County; New York,77246.0
+36081046800,Census Tract 468; Queens County; New York,83388.0
+36081046901,Census Tract 469.01; Queens County; New York,73538.0
+36081046902,Census Tract 469.02; Queens County; New York,68353.0
+36081047000,Census Tract 470; Queens County; New York,72955.0
+36081047100,Census Tract 471; Queens County; New York,60616.0
+36081047200,Census Tract 472; Queens County; New York,128274.0
+36081047300,Census Tract 473; Queens County; New York,72441.0
+36081047500,Census Tract 475; Queens County; New York,86271.0
+36081047600,Census Tract 476; Queens County; New York,115335.0
+36081047801,Census Tract 478.01; Queens County; New York,56848.0
+36081047802,Census Tract 478.02; Queens County; New York,116198.0
+36081047900,Census Tract 479; Queens County; New York,87515.0
+36081048000,Census Tract 480; Queens County; New York,86250.0
+36081048100,Census Tract 481; Queens County; New York,73983.0
+36081048200,Census Tract 482; Queens County; New York,110729.0
+36081048301,Census Tract 483.01; Queens County; New York,60568.0
+36081048302,Census Tract 483.02; Queens County; New York,85724.0
+36081048400,Census Tract 484; Queens County; New York,86726.0
+36081048500,Census Tract 485; Queens County; New York,77614.0
+36081048900,Census Tract 489; Queens County; New York,61552.0
+36081049201,Census Tract 492.01; Queens County; New York,60797.0
+36081049202,Census Tract 492.02; Queens County; New York,107063.0
+36081049301,Census Tract 493.01; Queens County; New York,86429.0
+36081049302,Census Tract 493.02; Queens County; New York,59940.0
+36081049500,Census Tract 495; Queens County; New York,92800.0
+36081049600,Census Tract 496; Queens County; New York,91991.0
+36081049700,Census Tract 497; Queens County; New York,86031.0
+36081049900,Census Tract 499; Queens County; New York,85045.0
+36081050000,Census Tract 500; Queens County; New York,68850.0
+36081050201,Census Tract 502.01; Queens County; New York,90972.0
+36081050202,Census Tract 502.02; Queens County; New York,85147.0
+36081050400,Census Tract 504; Queens County; New York,131168.0
+36081050500,Census Tract 505; Queens County; New York,113438.0
+36081050600,Census Tract 506; Queens County; New York,93000.0
+36081050700,Census Tract 507; Queens County; New York,84476.0
+36081050800,Census Tract 508; Queens County; New York,77040.0
+36081051000,Census Tract 510; Queens County; New York,85179.0
+36081051100,Census Tract 511; Queens County; New York,92647.0
+36081051200,Census Tract 512; Queens County; New York,122778.0
+36081051300,Census Tract 513; Queens County; New York,83618.0
+36081051500,Census Tract 515; Queens County; New York,102833.0
+36081051600,Census Tract 516; Queens County; New York,107500.0
+36081051700,Census Tract 517; Queens County; New York,113125.0
+36081051800,Census Tract 518; Queens County; New York,124423.0
+36081052000,Census Tract 520; Queens County; New York,105163.0
+36081052100,Census Tract 521; Queens County; New York,84009.0
+36081052200,Census Tract 522; Queens County; New York,86818.0
+36081052400,Census Tract 524; Queens County; New York,112838.0
+36081052500,Census Tract 525; Queens County; New York,77037.0
+36081052600,Census Tract 526; Queens County; New York,96695.0
+36081052800,Census Tract 528; Queens County; New York,79542.0
+36081053000,Census Tract 530; Queens County; New York,102381.0
+36081053100,Census Tract 531; Queens County; New York,73938.0
+36081053200,Census Tract 532; Queens County; New York,97419.0
+36081053401,Census Tract 534.01; Queens County; New York,103594.0
+36081053501,Census Tract 535.01; Queens County; New York,73042.0
+36081053502,Census Tract 535.02; Queens County; New York,
+36081053601,Census Tract 536.01; Queens County; New York,
+36081053800,Census Tract 538; Queens County; New York,121034.0
+36081053901,Census Tract 539.01; Queens County; New York,91027.0
+36081053902,Census Tract 539.02; Queens County; New York,
+36081054000,Census Tract 540; Queens County; New York,102174.0
+36081054200,Census Tract 542; Queens County; New York,94125.0
+36081054500,Census Tract 545; Queens County; New York,66076.0
+36081054700,Census Tract 547; Queens County; New York,119732.0
+36081054800,Census Tract 548; Queens County; New York,84601.0
+36081054900,Census Tract 549; Queens County; New York,104821.0
+36081055100,Census Tract 551; Queens County; New York,80268.0
+36081055200,Census Tract 552; Queens County; New York,71213.0
+36081055300,Census Tract 553; Queens County; New York,90114.0
+36081055400,Census Tract 554; Queens County; New York,89375.0
+36081055500,Census Tract 555; Queens County; New York,86667.0
+36081055600,Census Tract 556; Queens County; New York,135052.0
+36081055700,Census Tract 557; Queens County; New York,101636.0
+36081055800,Census Tract 558; Queens County; New York,78672.0
+36081055900,Census Tract 559; Queens County; New York,70481.0
+36081056000,Census Tract 560; Queens County; New York,139615.0
+36081056100,Census Tract 561; Queens County; New York,
+36081056200,Census Tract 562; Queens County; New York,102125.0
+36081056400,Census Tract 564; Queens County; New York,95000.0
+36081056500,Census Tract 565; Queens County; New York,129647.0
+36081056600,Census Tract 566; Queens County; New York,71974.0
+36081056700,Census Tract 567; Queens County; New York,111477.0
+36081056800,Census Tract 568; Queens County; New York,101321.0
+36081057700,Census Tract 577; Queens County; New York,75750.0
+36081057900,Census Tract 579; Queens County; New York,76023.0
+36081058000,Census Tract 580; Queens County; New York,139342.0
+36081058100,Census Tract 581; Queens County; New York,78950.0
+36081058200,Census Tract 582; Queens County; New York,123583.0
+36081058300,Census Tract 583; Queens County; New York,109327.0
+36081058500,Census Tract 585; Queens County; New York,101157.0
+36081058700,Census Tract 587; Queens County; New York,100385.0
+36081058900,Census Tract 589; Queens County; New York,60224.0
+36081059000,Census Tract 590; Queens County; New York,93750.0
+36081059100,Census Tract 591; Queens County; New York,53832.0
+36081059200,Census Tract 592; Queens County; New York,77857.0
+36081059300,Census Tract 593; Queens County; New York,90975.0
+36081059400,Census Tract 594; Queens County; New York,134297.0
+36081059501,Census Tract 595.01; Queens County; New York,80515.0
+36081059502,Census Tract 595.02; Queens County; New York,75833.0
+36081059600,Census Tract 596; Queens County; New York,92162.0
+36081059800,Census Tract 598; Queens County; New York,96250.0
+36081059900,Census Tract 599; Queens County; New York,120979.0
+36081060000,Census Tract 600; Queens County; New York,129519.0
+36081060100,Census Tract 601; Queens County; New York,75811.0
+36081060300,Census Tract 603; Queens County; New York,95909.0
+36081060600,Census Tract 606; Queens County; New York,131250.0
+36081060701,Census Tract 607.01; Queens County; New York,
+36081060800,Census Tract 608; Queens County; New York,115000.0
+36081061000,Census Tract 610; Queens County; New York,97788.0
+36081061200,Census Tract 612; Queens County; New York,133214.0
+36081061301,Census Tract 613.01; Queens County; New York,93669.0
+36081061302,Census Tract 613.02; Queens County; New York,
+36081061400,Census Tract 614; Queens County; New York,132159.0
+36081061601,Census Tract 616.01; Queens County; New York,107838.0
+36081061602,Census Tract 616.02; Queens County; New York,127857.0
+36081061800,Census Tract 618; Queens County; New York,112868.0
+36081061900,Census Tract 619; Queens County; New York,62083.0
+36081062000,Census Tract 620; Queens County; New York,129457.0
+36081062100,Census Tract 621; Queens County; New York,77011.0
+36081062200,Census Tract 622; Queens County; New York,122938.0
+36081062300,Census Tract 623; Queens County; New York,77563.0
+36081062400,Census Tract 624; Queens County; New York,
+36081062500,Census Tract 625; Queens County; New York,83631.0
+36081062600,Census Tract 626; Queens County; New York,139602.0
+36081062700,Census Tract 627; Queens County; New York,76439.0
+36081062900,Census Tract 629; Queens County; New York,101097.0
+36081063000,Census Tract 630; Queens County; New York,120821.0
+36081063200,Census Tract 632; Queens County; New York,107672.0
+36081063301,Census Tract 633.01; Queens County; New York,142768.0
+36081063302,Census Tract 633.02; Queens County; New York,102292.0
+36081063500,Census Tract 635; Queens County; New York,86219.0
+36081063700,Census Tract 637; Queens County; New York,91488.0
+36081063800,Census Tract 638; Queens County; New York,164604.0
+36081063900,Census Tract 639; Queens County; New York,102083.0
+36081064101,Census Tract 641.01; Queens County; New York,99393.0
+36081064102,Census Tract 641.02; Queens County; New York,
+36081064500,Census Tract 645; Queens County; New York,81250.0
+36081064600,Census Tract 646; Queens County; New York,125875.0
+36081065000,Census Tract 650; Queens County; New York,133482.0
+36081065401,Census Tract 654.01; Queens County; New York,104622.0
+36081065402,Census Tract 654.02; Queens County; New York,
+36081065501,Census Tract 655.01; Queens County; New York,
+36081065600,Census Tract 656; Queens County; New York,117800.0
+36081065702,Census Tract 657.02; Queens County; New York,74821.0
+36081065703,Census Tract 657.03; Queens County; New York,122434.0
+36081065900,Census Tract 659; Queens County; New York,112917.0
+36081066000,Census Tract 660; Queens County; New York,137843.0
+36081066100,Census Tract 661; Queens County; New York,116806.0
+36081066301,Census Tract 663.01; Queens County; New York,92318.0
+36081066302,Census Tract 663.02; Queens County; New York,
+36081066401,Census Tract 664.01; Queens County; New York,110000.0
+36081066402,Census Tract 664.02; Queens County; New York,111494.0
+36081066403,Census Tract 664.03; Queens County; New York,100441.0
+36081066404,Census Tract 664.04; Queens County; New York,
+36081066501,Census Tract 665.01; Queens County; New York,100391.0
+36081066701,Census Tract 667.01; Queens County; New York,103594.0
+36081066900,Census Tract 669; Queens County; New York,96484.0
+36081067100,Census Tract 671; Queens County; New York,121266.0
+36081067700,Census Tract 677; Queens County; New York,100313.0
+36081067900,Census Tract 679; Queens County; New York,78538.0
+36081068000,Census Tract 680; Queens County; New York,133510.0
+36081068200,Census Tract 682; Queens County; New York,89732.0
+36081068300,Census Tract 683; Queens County; New York,85771.0
+36081068700,Census Tract 687; Queens County; New York,86193.0
+36081069000,Census Tract 690; Queens County; New York,111464.0
+36081069300,Census Tract 693; Queens County; New York,57099.0
+36081069400,Census Tract 694; Queens County; New York,117692.0
+36081069500,Census Tract 695; Queens County; New York,91591.0
+36081069701,Census Tract 697.01; Queens County; New York,102500.0
+36081069702,Census Tract 697.02; Queens County; New York,92489.0
+36081070300,Census Tract 703; Queens County; New York,106250.0
+36081070700,Census Tract 707; Queens County; New York,138237.0
+36081070900,Census Tract 709; Queens County; New York,117375.0
+36081071100,Census Tract 711; Queens County; New York,100149.0
+36081071303,Census Tract 713.03; Queens County; New York,97563.0
+36081071304,Census Tract 713.04; Queens County; New York,100238.0
+36081071305,Census Tract 713.05; Queens County; New York,118409.0
+36081071306,Census Tract 713.06; Queens County; New York,88329.0
+36081071600,Census Tract 716; Queens County; New York,
+36081071701,Census Tract 717.01; Queens County; New York,67566.0
+36081071702,Census Tract 717.02; Queens County; New York,87958.0
+36081071900,Census Tract 719; Queens County; New York,62408.0
+36081072100,Census Tract 721; Queens County; New York,100976.0
+36081072300,Census Tract 723; Queens County; New York,181250.0
+36081072900,Census Tract 729; Queens County; New York,104767.0
+36081073100,Census Tract 731; Queens County; New York,170913.0
+36081073700,Census Tract 737; Queens County; New York,151731.0
+36081073900,Census Tract 739; Queens County; New York,116815.0
+36081074100,Census Tract 741; Queens County; New York,96894.0
+36081074300,Census Tract 743; Queens County; New York,66972.0
+36081074500,Census Tract 745; Queens County; New York,63268.0
+36081074700,Census Tract 747; Queens County; New York,99769.0
+36081074900,Census Tract 749; Queens County; New York,224313.0
+36081075701,Census Tract 757.01; Queens County; New York,117361.0
+36081075702,Census Tract 757.02; Queens County; New York,125316.0
+36081076901,Census Tract 769.01; Queens County; New York,111389.0
+36081076902,Census Tract 769.02; Queens County; New York,134545.0
+36081077300,Census Tract 773; Queens County; New York,106964.0
+36081077500,Census Tract 775; Queens County; New York,84427.0
+36081077902,Census Tract 779.02; Queens County; New York,102363.0
+36081077903,Census Tract 779.03; Queens County; New York,96944.0
+36081077904,Census Tract 779.04; Queens County; New York,107279.0
+36081077905,Census Tract 779.05; Queens County; New York,94000.0
+36081077906,Census Tract 779.06; Queens County; New York,86324.0
+36081077907,Census Tract 779.07; Queens County; New York,68226.0
+36081077908,Census Tract 779.08; Queens County; New York,79265.0
+36081078800,Census Tract 788; Queens County; New York,105529.0
+36081079000,Census Tract 790; Queens County; New York,97500.0
+36081079200,Census Tract 792; Queens County; New York,71510.0
+36081079300,Census Tract 793; Queens County; New York,
+36081079701,Census Tract 797.01; Queens County; New York,62173.0
+36081079702,Census Tract 797.02; Queens County; New York,48147.0
+36081079900,Census Tract 799; Queens County; New York,48980.0
+36081080301,Census Tract 803.01; Queens County; New York,59817.0
+36081080302,Census Tract 803.02; Queens County; New York,82358.0
+36081080900,Census Tract 809; Queens County; New York,55716.0
+36081081400,Census Tract 814; Queens County; New York,105179.0
+36081081800,Census Tract 818; Queens County; New York,130457.0
+36081083700,Census Tract 837; Queens County; New York,70028.0
+36081083800,Census Tract 838; Queens County; New York,100354.0
+36081084000,Census Tract 840; Queens County; New York,87614.0
+36081084500,Census Tract 845; Queens County; New York,29552.0
+36081084601,Census Tract 846.01; Queens County; New York,102692.0
+36081084602,Census Tract 846.02; Queens County; New York,91953.0
+36081084901,Census Tract 849.01; Queens County; New York,95551.0
+36081084902,Census Tract 849.02; Queens County; New York,40901.0
+36081085300,Census Tract 853; Queens County; New York,35985.0
+36081085500,Census Tract 855; Queens County; New York,42611.0
+36081085700,Census Tract 857; Queens County; New York,54914.0
+36081085900,Census Tract 859; Queens County; New York,60460.0
+36081086100,Census Tract 861; Queens County; New York,42026.0
+36081086300,Census Tract 863; Queens County; New York,53839.0
+36081086400,Census Tract 864; Queens County; New York,128398.0
+36081086500,Census Tract 865; Queens County; New York,65433.0
+36081086900,Census Tract 869; Queens County; New York,95469.0
+36081087100,Census Tract 871; Queens County; New York,52250.0
+36081088400,Census Tract 884; Queens County; New York,96806.0
+36081088902,Census Tract 889.02; Queens County; New York,59200.0
+36081088903,Census Tract 889.03; Queens County; New York,53393.0
+36081089201,Census Tract 892.01; Queens County; New York,155291.0
+36081089202,Census Tract 892.02; Queens County; New York,
+36081090700,Census Tract 907; Queens County; New York,101023.0
+36081091602,Census Tract 916.02; Queens County; New York,
+36081091603,Census Tract 916.03; Queens County; New York,122443.0
+36081091604,Census Tract 916.04; Queens County; New York,
+36081091800,Census Tract 918; Queens County; New York,
+36081091900,Census Tract 919; Queens County; New York,106612.0
+36081092200,Census Tract 922; Queens County; New York,175682.0
+36081092500,Census Tract 925; Queens County; New York,64107.0
+36081092800,Census Tract 928; Queens County; New York,162798.0
+36081092900,Census Tract 929; Queens County; New York,112324.0
+36081093401,Census Tract 934.01; Queens County; New York,131471.0
+36081093402,Census Tract 934.02; Queens County; New York,107371.0
+36081093800,Census Tract 938; Queens County; New York,81573.0
+36081093900,Census Tract 939; Queens County; New York,79471.0
+36081094201,Census Tract 942.01; Queens County; New York,75966.0
+36081094202,Census Tract 942.02; Queens County; New York,56800.0
+36081094203,Census Tract 942.03; Queens County; New York,48482.0
+36081094500,Census Tract 945; Queens County; New York,79406.0
+36081094700,Census Tract 947; Queens County; New York,85819.0
+36081095400,Census Tract 954; Queens County; New York,82053.0
+36081096400,Census Tract 964; Queens County; New York,89432.0
+36081097202,Census Tract 972.02; Queens County; New York,22500.0
+36081097204,Census Tract 972.04; Queens County; New York,73180.0
+36081097205,Census Tract 972.05; Queens County; New York,21295.0
+36081097206,Census Tract 972.06; Queens County; New York,34679.0
+36081097207,Census Tract 972.07; Queens County; New York,
+36081097300,Census Tract 973; Queens County; New York,86008.0
+36081098100,Census Tract 981; Queens County; New York,129250.0
+36081098700,Census Tract 987; Queens County; New York,105313.0
+36081099100,Census Tract 991; Queens County; New York,110250.0
+36081099200,Census Tract 992; Queens County; New York,36736.0
+36081099701,Census Tract 997.01; Queens County; New York,93368.0
+36081099703,Census Tract 997.03; Queens County; New York,122188.0
+36081099704,Census Tract 997.04; Queens County; New York,87323.0
+36081099705,Census Tract 997.05; Queens County; New York,117283.0
+36081099801,Census Tract 998.01; Queens County; New York,70278.0
+36081099802,Census Tract 998.02; Queens County; New York,41654.0
+36081099900,Census Tract 999; Queens County; New York,
+36081100801,Census Tract 1008.01; Queens County; New York,136800.0
+36081100803,Census Tract 1008.03; Queens County; New York,46534.0
+36081100804,Census Tract 1008.04; Queens County; New York,106235.0
+36081101002,Census Tract 1010.02; Queens County; New York,77188.0
+36081101003,Census Tract 1010.03; Queens County; New York,72254.0
+36081101004,Census Tract 1010.04; Queens County; New York,48236.0
+36081101700,Census Tract 1017; Queens County; New York,110572.0
+36081102900,Census Tract 1029; Queens County; New York,102972.0
+36081103201,Census Tract 1032.01; Queens County; New York,50123.0
+36081103202,Census Tract 1032.02; Queens County; New York,77069.0
+36081103300,Census Tract 1033; Queens County; New York,123810.0
+36081103900,Census Tract 1039; Queens County; New York,76587.0
+36081104700,Census Tract 1047; Queens County; New York,66683.0
+36081105900,Census Tract 1059; Queens County; New York,109000.0
+36081107201,Census Tract 1072.01; Queens County; New York,111354.0
+36081107202,Census Tract 1072.02; Queens County; New York,
+36081108500,Census Tract 1085; Queens County; New York,71111.0
+36081109300,Census Tract 1093; Queens County; New York,125536.0
+36081109700,Census Tract 1097; Queens County; New York,134145.0
+36081109900,Census Tract 1099; Queens County; New York,96250.0
+36081111300,Census Tract 1113; Queens County; New York,143917.0
+36081112300,Census Tract 1123; Queens County; New York,93194.0
+36081112900,Census Tract 1129; Queens County; New York,104688.0
+36081113300,Census Tract 1133; Queens County; New York,111094.0
+36081113900,Census Tract 1139; Queens County; New York,85485.0
+36081114100,Census Tract 1141; Queens County; New York,121579.0
+36081114700,Census Tract 1147; Queens County; New York,102135.0
+36081115100,Census Tract 1151; Queens County; New York,108542.0
+36081115500,Census Tract 1155; Queens County; New York,109063.0
+36081115700,Census Tract 1157; Queens County; New York,64153.0
+36081115900,Census Tract 1159; Queens County; New York,61776.0
+36081116100,Census Tract 1161; Queens County; New York,43417.0
+36081116301,Census Tract 1163.01; Queens County; New York,65526.0
+36081116302,Census Tract 1163.02; Queens County; New York,53631.0
+36081116700,Census Tract 1167; Queens County; New York,62857.0
+36081117100,Census Tract 1171; Queens County; New York,78856.0
+36081117500,Census Tract 1175; Queens County; New York,78098.0
+36081118100,Census Tract 1181; Queens County; New York,100536.0
+36081118500,Census Tract 1185; Queens County; New York,67277.0
+36081118700,Census Tract 1187; Queens County; New York,71657.0
+36081118900,Census Tract 1189; Queens County; New York,56446.0
+36081119100,Census Tract 1191; Queens County; New York,68355.0
+36081119300,Census Tract 1193; Queens County; New York,54273.0
+36081119500,Census Tract 1195; Queens County; New York,94010.0
+36081119900,Census Tract 1199; Queens County; New York,123519.0
+36081120100,Census Tract 1201; Queens County; New York,86125.0
+36081120300,Census Tract 1203; Queens County; New York,61000.0
+36081120500,Census Tract 1205; Queens County; New York,26563.0
+36081120701,Census Tract 1207.01; Queens County; New York,115750.0
+36081120702,Census Tract 1207.02; Queens County; New York,
+36081121100,Census Tract 1211; Queens County; New York,
+36081121500,Census Tract 1215; Queens County; New York,92412.0
+36081122300,Census Tract 1223; Queens County; New York,96313.0
+36081122702,Census Tract 1227.02; Queens County; New York,26161.0
+36081122703,Census Tract 1227.03; Queens County; New York,68089.0
+36081122704,Census Tract 1227.04; Queens County; New York,82292.0
+36081124100,Census Tract 1241; Queens County; New York,96560.0
+36081124700,Census Tract 1247; Queens County; New York,118813.0
+36081125700,Census Tract 1257; Queens County; New York,107125.0
+36081126500,Census Tract 1265; Queens County; New York,146250.0
+36081126700,Census Tract 1267; Queens County; New York,98000.0
+36081127700,Census Tract 1277; Queens County; New York,119591.0
+36081128300,Census Tract 1283; Queens County; New York,
+36081129102,Census Tract 1291.02; Queens County; New York,150263.0
+36081129103,Census Tract 1291.03; Queens County; New York,79367.0
+36081129104,Census Tract 1291.04; Queens County; New York,127303.0
+36081130100,Census Tract 1301; Queens County; New York,94854.0
+36081133300,Census Tract 1333; Queens County; New York,138602.0
+36081133900,Census Tract 1339; Queens County; New York,129934.0
+36081134100,Census Tract 1341; Queens County; New York,59033.0
+36081134701,Census Tract 1347.01; Queens County; New York,92125.0
+36081134702,Census Tract 1347.02; Queens County; New York,84031.0
+36081136700,Census Tract 1367; Queens County; New York,82139.0
+36081137700,Census Tract 1377; Queens County; New York,99140.0
+36081138501,Census Tract 1385.01; Queens County; New York,92132.0
+36081138502,Census Tract 1385.02; Queens County; New York,
+36081139900,Census Tract 1399; Queens County; New York,128000.0
+36081140300,Census Tract 1403; Queens County; New York,71842.0
+36081140901,Census Tract 1409.01; Queens County; New York,130281.0
+36081140902,Census Tract 1409.02; Queens County; New York,120208.0
+36081141700,Census Tract 1417; Queens County; New York,76275.0
+36081142900,Census Tract 1429; Queens County; New York,100864.0
+36081143500,Census Tract 1435; Queens County; New York,121875.0
+36081144100,Census Tract 1441; Queens County; New York,111410.0
+36081144700,Census Tract 1447; Queens County; New York,94766.0
+36081145101,Census Tract 1451.01; Queens County; New York,71154.0
+36081145102,Census Tract 1451.02; Queens County; New York,93523.0
+36081145900,Census Tract 1459; Queens County; New York,125962.0
+36081146300,Census Tract 1463; Queens County; New York,87244.0
+36081146700,Census Tract 1467; Queens County; New York,106538.0
+36081147100,Census Tract 1471; Queens County; New York,106615.0
+36081147900,Census Tract 1479; Queens County; New York,92045.0
+36081148300,Census Tract 1483; Queens County; New York,178509.0
+36081150701,Census Tract 1507.01; Queens County; New York,158875.0
+36081150702,Census Tract 1507.02; Queens County; New York,107375.0
+36081152901,Census Tract 1529.01; Queens County; New York,100909.0
+36081152902,Census Tract 1529.02; Queens County; New York,129832.0
+36081155101,Census Tract 1551.01; Queens County; New York,89931.0
+36081155103,Census Tract 1551.03; Queens County; New York,114526.0
+36081155104,Census Tract 1551.04; Queens County; New York,88882.0
+36081156700,Census Tract 1567; Queens County; New York,59722.0
+36081157101,Census Tract 1571.01; Queens County; New York,90575.0
+36081157102,Census Tract 1571.02; Queens County; New York,118250.0
+36081157901,Census Tract 1579.01; Queens County; New York,133542.0
+36081157902,Census Tract 1579.02; Queens County; New York,107153.0
+36081157903,Census Tract 1579.03; Queens County; New York,127533.0
+36081161700,Census Tract 1617; Queens County; New York,119688.0
+36081162100,Census Tract 1621; Queens County; New York,121101.0
+36081990100,Census Tract 9901; Queens County; New York,
+36085000300,Census Tract 3; Richmond County; New York,77981.0
+36085000600,Census Tract 6; Richmond County; New York,34492.0
+36085000700,Census Tract 7; Richmond County; New York,52813.0
+36085000800,Census Tract 8; Richmond County; New York,91438.0
+36085000900,Census Tract 9; Richmond County; New York,66208.0
+36085001100,Census Tract 11; Richmond County; New York,57368.0
+36085001700,Census Tract 17; Richmond County; New York,64006.0
+36085001800,Census Tract 18; Richmond County; New York,67273.0
+36085002001,Census Tract 20.01; Richmond County; New York,69620.0
+36085002002,Census Tract 20.02; Richmond County; New York,66641.0
+36085002100,Census Tract 21; Richmond County; New York,46667.0
+36085002700,Census Tract 27; Richmond County; New York,45848.0
+36085002900,Census Tract 29; Richmond County; New York,50189.0
+36085003300,Census Tract 33; Richmond County; New York,95317.0
+36085003600,Census Tract 36; Richmond County; New York,88929.0
+36085003900,Census Tract 39; Richmond County; New York,103702.0
+36085004001,Census Tract 40.01; Richmond County; New York,59962.0
+36085004002,Census Tract 40.02; Richmond County; New York,74759.0
+36085004003,Census Tract 40.03; Richmond County; New York,24896.0
+36085004004,Census Tract 40.04; Richmond County; New York,120497.0
+36085004700,Census Tract 47; Richmond County; New York,108750.0
+36085005000,Census Tract 50; Richmond County; New York,74890.0
+36085005901,Census Tract 59.01; Richmond County; New York,95863.0
+36085005902,Census Tract 59.02; Richmond County; New York,
+36085006400,Census Tract 64; Richmond County; New York,67946.0
+36085006700,Census Tract 67; Richmond County; New York,97432.0
+36085007001,Census Tract 70.01; Richmond County; New York,78558.0
+36085007002,Census Tract 70.02; Richmond County; New York,98574.0
+36085007400,Census Tract 74; Richmond County; New York,78701.0
+36085007500,Census Tract 75; Richmond County; New York,81200.0
+36085007700,Census Tract 77; Richmond County; New York,89961.0
+36085008100,Census Tract 81; Richmond County; New York,91274.0
+36085009601,Census Tract 96.01; Richmond County; New York,105670.0
+36085009602,Census Tract 96.02; Richmond County; New York,89392.0
+36085009701,Census Tract 97.01; Richmond County; New York,100996.0
+36085009702,Census Tract 97.02; Richmond County; New York,
+36085010500,Census Tract 105; Richmond County; New York,96607.0
+36085011201,Census Tract 112.01; Richmond County; New York,92387.0
+36085011203,Census Tract 112.03; Richmond County; New York,72935.0
+36085011204,Census Tract 112.04; Richmond County; New York,
+36085011401,Census Tract 114.01; Richmond County; New York,50878.0
+36085011402,Census Tract 114.02; Richmond County; New York,111058.0
+36085012100,Census Tract 121; Richmond County; New York,202699.0
+36085012200,Census Tract 122; Richmond County; New York,127824.0
+36085012500,Census Tract 125; Richmond County; New York,138000.0
+36085012804,Census Tract 128.04; Richmond County; New York,97624.0
+36085012805,Census Tract 128.05; Richmond County; New York,134512.0
+36085012806,Census Tract 128.06; Richmond County; New York,67857.0
+36085013201,Census Tract 132.01; Richmond County; New York,117083.0
+36085013203,Census Tract 132.03; Richmond County; New York,102750.0
+36085013204,Census Tract 132.04; Richmond County; New York,108447.0
+36085013301,Census Tract 133.01; Richmond County; New York,33705.0
+36085013302,Census Tract 133.02; Richmond County; New York,92070.0
+36085013400,Census Tract 134; Richmond County; New York,93145.0
+36085013800,Census Tract 138; Richmond County; New York,146975.0
+36085014100,Census Tract 141; Richmond County; New York,92500.0
+36085014604,Census Tract 146.04; Richmond County; New York,126950.0
+36085014605,Census Tract 146.05; Richmond County; New York,148065.0
+36085014606,Census Tract 146.06; Richmond County; New York,97247.0
+36085014607,Census Tract 146.07; Richmond County; New York,130294.0
+36085014608,Census Tract 146.08; Richmond County; New York,105625.0
+36085014700,Census Tract 147; Richmond County; New York,123015.0
+36085015100,Census Tract 151; Richmond County; New York,115769.0
+36085015400,Census Tract 154; Richmond County; New York,
+36085015601,Census Tract 156.01; Richmond County; New York,112076.0
+36085015602,Census Tract 156.02; Richmond County; New York,145682.0
+36085015603,Census Tract 156.03; Richmond County; New York,102792.0
+36085016901,Census Tract 169.01; Richmond County; New York,129583.0
+36085017005,Census Tract 170.05; Richmond County; New York,100965.0
+36085017007,Census Tract 170.07; Richmond County; New York,107003.0
+36085017009,Census Tract 170.09; Richmond County; New York,124196.0
+36085017011,Census Tract 170.11; Richmond County; New York,128933.0
+36085017012,Census Tract 170.12; Richmond County; New York,126250.0
+36085017013,Census Tract 170.13; Richmond County; New York,99914.0
+36085017014,Census Tract 170.14; Richmond County; New York,112567.0
+36085017015,Census Tract 170.15; Richmond County; New York,116923.0
+36085017016,Census Tract 170.16; Richmond County; New York,104313.0
+36085017300,Census Tract 173; Richmond County; New York,55114.0
+36085017600,Census Tract 176; Richmond County; New York,111786.0
+36085017701,Census Tract 177.01; Richmond County; New York,131719.0
+36085017702,Census Tract 177.02; Richmond County; New York,118743.0
+36085018100,Census Tract 181; Richmond County; New York,98807.0
+36085018701,Census Tract 187.01; Richmond County; New York,100903.0
+36085018703,Census Tract 187.03; Richmond County; New York,96642.0
+36085018704,Census Tract 187.04; Richmond County; New York,145432.0
+36085018901,Census Tract 189.01; Richmond County; New York,136370.0
+36085018902,Census Tract 189.02; Richmond County; New York,101700.0
+36085019700,Census Tract 197; Richmond County; New York,111250.0
+36085019800,Census Tract 198; Richmond County; New York,131496.0
+36085020100,Census Tract 201; Richmond County; New York,116591.0
+36085020701,Census Tract 207.01; Richmond County; New York,58495.0
+36085020702,Census Tract 207.02; Richmond County; New York,46638.0
+36085020803,Census Tract 208.03; Richmond County; New York,108076.0
+36085020804,Census Tract 208.04; Richmond County; New York,104049.0
+36085020805,Census Tract 208.05; Richmond County; New York,129939.0
+36085020806,Census Tract 208.06; Richmond County; New York,98683.0
+36085021300,Census Tract 213; Richmond County; New York,103992.0
+36085022300,Census Tract 223; Richmond County; New York,64964.0
+36085022601,Census Tract 226.01; Richmond County; New York,104385.0
+36085022602,Census Tract 226.02; Richmond County; New York,
+36085022801,Census Tract 228.01; Richmond County; New York,
+36085022802,Census Tract 228.02; Richmond County; New York,
+36085023100,Census Tract 231; Richmond County; New York,86589.0
+36085023900,Census Tract 239; Richmond County; New York,66833.0
+36085024401,Census Tract 244.01; Richmond County; New York,176363.0
+36085024402,Census Tract 244.02; Richmond County; New York,131042.0
+36085024700,Census Tract 247; Richmond County; New York,79833.0
+36085024800,Census Tract 248; Richmond County; New York,131745.0
+36085025100,Census Tract 251; Richmond County; New York,109494.0
+36085027301,Census Tract 273.01; Richmond County; New York,116181.0
+36085027302,Census Tract 273.02; Richmond County; New York,106979.0
+36085027702,Census Tract 277.02; Richmond County; New York,88295.0
+36085027704,Census Tract 277.04; Richmond County; New York,82315.0
+36085027705,Census Tract 277.05; Richmond County; New York,99803.0
+36085027706,Census Tract 277.06; Richmond County; New York,60781.0
+36085027900,Census Tract 279; Richmond County; New York,167934.0
+36085029102,Census Tract 291.02; Richmond County; New York,123393.0
+36085029104,Census Tract 291.04; Richmond County; New York,97412.0
+36085029105,Census Tract 291.05; Richmond County; New York,118597.0
+36085029106,Census Tract 291.06; Richmond County; New York,75347.0
+36085030301,Census Tract 303.01; Richmond County; New York,118913.0
+36085030302,Census Tract 303.02; Richmond County; New York,89917.0
+36085031901,Census Tract 319.01; Richmond County; New York,51743.0
+36085031902,Census Tract 319.02; Richmond County; New York,92083.0
+36085032300,Census Tract 323; Richmond County; New York,79688.0
+36085990100,Census Tract 9901; Richmond County; New York,

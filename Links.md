@@ -20,7 +20,9 @@ https://data.cityofnewyork.us/Environment/NYCCAS-Air-Pollution-Rasters/q68s-8qxv
 
 04.10.2026
 
-https://simplemaps.com/city/new-york/zips/income-household-median
+Median income per consensus tract
+
+https://api.census.gov/data/2024/acs/acs5?get=B19013_001E,NAME&for=tract:*&in=state:36+county:061,047,081,005,085&key=<API_Key>
 
 # Subway stops
 
@@ -35,3 +37,16 @@ https://www.mta.info/developers
 04.10.2026
 
 https://www.newyork-demographics.com/zip_codes_by_population
+
+# Felonies ()
+
+Last updated 28.4.2026
+Timeframe 01.01.2024 -31.12.2025
+
+https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i/about_data
+
+# Census tracts
+
+04.10.2026
+
+https://data.cityofnewyork.us/City-Government/2020-Census-Tracts/63ge-mke6/about_data
