@@ -32,14 +32,6 @@ Updated 26.08.2026
 
 https://www.mta.info/developers
 
-# Population Link
-
-04.10.2026
-
-2020-2024 5-year estimates,
-
-https://api.census.gov/data/2024/acs/acs5?get=B01003_001E,NAME&for=tract:*&in=state:36+county:061,047,081,005,085&key=<API_Key>
-
 # Felonies ()
 
 Last updated 28.4.2026
@@ -53,18 +45,6 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i5
 
 https://data.cityofnewyork.us/City-Government/2020-Census-Tracts/63ge-mke6/about_data
 
-# School quality
+# Link for parks
 
-Reports\_ Data Dbn, name of the school math and ela
-
-https://data.cityofnewyork.us/Education/School-Quality-Reports-Data/dnpx-dfnc/about_data
-
-School points
-
-https://data.cityofnewyork.us/Education/School-Point-Locations/jfju-ynrr/about_data
-
-Schools Geojson
-
-2024-2025
-
-https://data.cityofnewyork.us/Education/School-Zones-2024-2025-Elementary-School-/cmjf-yawu/about_data
+https://data.cityofnewyork.us/Recreation/Parks-Properties/enfh-gkve/about_data
