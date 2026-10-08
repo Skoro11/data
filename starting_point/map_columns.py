@@ -80,6 +80,12 @@ after_year = len(mapped)
 print(f"Year filter: {before_year} -> {after_year} rows "
       f"({before_year - after_year} dropped as outside 2024-2026)")
 
+# Stable unique id for each listing - needed since multiple listings can share
+# the exact same latitude/longitude (e.g. different units in the same building),
+# so later enrichment merges must join on this id, not on lat/long or row order.
+mapped = mapped.reset_index(drop=True)
+mapped.insert(0, "listing_id", mapped.index)
+
 # Save the dataset
 mapped.to_csv("dataset_mapped.csv", index=False)
 print(f"Wrote {len(mapped)} rows to dataset_mapped.csv")
