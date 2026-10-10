@@ -13,8 +13,7 @@ with rasterio.open("raster/aa16_pm300m_wgs84.tif") as src:
     print(f"Wrote {len(grid)} grid cells covering NYC (longitude, latitude, pm2_5)")
     grid.to_csv("air_quality.csv", index=False)
 
-    pd.read_csv("../listings/listings_coords.csv").to_csv("listings.csv", index=False)
-    listings = pd.read_csv("listings.csv")
+    listings = pd.read_csv("listings_coords.csv")
 
     coords = zip(listings["longitude"], listings["latitude"])
     listings["pm2_5"] = [val[0] for val in src.sample(coords)]

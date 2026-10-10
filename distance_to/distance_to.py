@@ -4,8 +4,7 @@ import geopandas as gpd
 
 EARTH_RADIUS_KM = 6371
 
-pd.read_csv("../listings/listings_coords.csv").to_csv("listings.csv", index=False)
-df = pd.read_csv("listings.csv")
+df = pd.read_csv("listings_coords.csv")
 
 # --- distance to CBD (Times Square) ---
 center = pd.read_csv("city_center.csv").iloc[0]
