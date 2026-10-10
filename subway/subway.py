@@ -12,9 +12,7 @@ stations = stations[["stop_name", "stop_lat", "stop_lon"]].rename(
 stations.to_csv("subway_stations.csv", index=False)
 print(f"Wrote {len(stations)} subway stations to subway_stations.csv")
 
-pd.read_csv(
-    "../starting_point/dataset_mapped.csv", usecols=["listing_id", "latitude", "longitude"]
-).to_csv("listings.csv", index=False)
+pd.read_csv("../listings/listings_coords.csv").to_csv("listings.csv", index=False)
 listings = pd.read_csv("listings.csv")
 
 EARTH_RADIUS_KM = 6371

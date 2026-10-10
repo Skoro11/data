@@ -1,7 +1,34 @@
+import geopandas as gpd
 import pandas as pd
 
-df = pd.read_csv("final_dataset.csv")
+df = pd.read_csv("final_dataset.csv", dtype={"GEOID": str})
 print(f"Starting rows: {len(df)}")
+
+# --- home_status (scope filter, moved here from mapper.py) ---
+print("\n--- home_status ---")
+print(df["home_status"].value_counts(dropna=False))
+
+before = len(df)
+df = df[df["home_status"] == "RECENTLY_SOLD"]
+after = len(df)
+print(f"home_status filter: {before} -> {after} rows "
+      f"({before - after} dropped, {100*(before-after)/before:.2f}%, not RECENTLY_SOLD)")
+
+df = df.drop(columns=["home_status"])  # done its job, not a model feature
+
+# --- NYC boundary (scope filter, moved here from mapper.py) ---
+print("\n--- NYC boundary ---")
+boundaries = gpd.read_file("Borough_Boundaries.geojson")
+points = gpd.GeoDataFrame(
+    df, geometry=gpd.points_from_xy(df["longitude"], df["latitude"]), crs=boundaries.crs
+)
+nyc_points = gpd.sjoin(points, boundaries, how="inner", predicate="within")
+
+before = len(df)
+df = df[df.index.isin(nyc_points.index)]
+after = len(df)
+print(f"NYC boundary filter: {before} -> {after} rows "
+      f"({before - after} dropped, {100*(before-after)/before:.2f}%, outside NYC)")
 
 # --- type ---
 print("\n--- type ---")
@@ -16,14 +43,14 @@ print(f"\ntype filter: {before} -> {after} rows "
 # --- sold_price ---
 print("\n--- sold_price ---")
 missing = df["sold_price"].isna().sum()
-invalid = (df["sold_price"] <= 0).sum()
-print(f"Missing: {missing}, invalid (<=0): {invalid}")
+out_of_range = (df["sold_price"].notna() & ((df["sold_price"] < 100_000) | (df["sold_price"] > 2_000_000))).sum()
+print(f"Missing: {missing}, outside $100k-$2M range: {out_of_range}")
 
 before = len(df)
-df = df[df["sold_price"].notna() & (df["sold_price"] > 0)]
+df = df[df["sold_price"].notna() & (df["sold_price"] >= 100_000) & (df["sold_price"] <= 2_000_000)]
 after = len(df)
 print(f"sold_price filter: {before} -> {after} rows "
-      f"({before - after} dropped, {100*(before-after)/before:.2f}%, missing/invalid sold_price)")
+      f"({before - after} dropped, {100*(before-after)/before:.2f}%, missing/out-of-range sold_price)")
 
 # --- sqft ---
 print("\n--- sqft ---")

@@ -1,7 +1,7 @@
 import geopandas as gpd
 import pandas as pd
 
-base = pd.read_csv("../starting_point/dataset_mapped.csv")
+base = pd.read_csv("../listings/zillow_mapped_dataset.csv")
 print(f"Base listings: {len(base)}")
 
 # --- per-listing files, joined on listing_id ---
