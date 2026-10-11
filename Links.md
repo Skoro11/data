@@ -19,10 +19,7 @@ https://data.cityofnewyork.us/Environment/NYCCAS-Air-Pollution-Rasters/q68s-8qxv
 # Link for median income
 
 04.10.2026
-
-Median income per consensus tract (2020-2024 ACS 5-Year Estimates)
-
-https://api.census.gov/data/2024/acs/acs5?get=B19013_001E,NAME&for=tract:*&in=state:36+county:061,047,081,005,085&key=
+https://www.census.gov/
 
 # Subway stops
 

@@ -376,7 +376,7 @@ GEOID,NAME,median_income
 36047001803,Census Tract 18.03; Kings County; New York,
 36047001804,Census Tract 18.04; Kings County; New York,
 36047002000,Census Tract 20; Kings County; New York,81458.0
-36047002100,Census Tract 21; Kings County; New York,250001.0
+36047002100,Census Tract 21; Kings County; New York,
 36047002200,Census Tract 22; Kings County; New York,41852.0
 36047002300,Census Tract 23; Kings County; New York,34977.0
 36047002901,Census Tract 29.01; Kings County; New York,22855.0
@@ -464,7 +464,7 @@ GEOID,NAME,median_income
 36047012600,Census Tract 126; Kings County; New York,81477.0
 36047012700,Census Tract 127; Kings County; New York,63750.0
 36047012801,Census Tract 128.01; Kings County; New York,74306.0
-36047012901,Census Tract 129.01; Kings County; New York,250001.0
+36047012901,Census Tract 129.01; Kings County; New York,
 36047012902,Census Tract 129.02; Kings County; New York,183510.0
 36047013000,Census Tract 130; Kings County; New York,78942.0
 36047013100,Census Tract 131; Kings County; New York,107083.0
@@ -499,7 +499,7 @@ GEOID,NAME,median_income
 36047016200,Census Tract 162; Kings County; New York,100278.0
 36047016300,Census Tract 163; Kings County; New York,196630.0
 36047016400,Census Tract 164; Kings County; New York,106875.0
-36047016500,Census Tract 165; Kings County; New York,250001.0
+36047016500,Census Tract 165; Kings County; New York,
 36047016600,Census Tract 166; Kings County; New York,114635.0
 36047016700,Census Tract 167; Kings County; New York,190125.0
 36047016800,Census Tract 168; Kings County; New York,118341.0
@@ -1172,7 +1172,7 @@ GEOID,NAME,median_income
 36061000600,Census Tract 6; New York County; New York,36893.0
 36061000700,Census Tract 7; New York County; New York,190388.0
 36061000800,Census Tract 8; New York County; New York,31262.0
-36061000900,Census Tract 9; New York County; New York,250001.0
+36061000900,Census Tract 9; New York County; New York,
 36061001001,Census Tract 10.01; New York County; New York,140000.0
 36061001002,Census Tract 10.02; New York County; New York,23796.0
 36061001200,Census Tract 12; New York County; New York,114318.0
@@ -1184,7 +1184,7 @@ GEOID,NAME,median_income
 36061001600,Census Tract 16; New York County; New York,35875.0
 36061001800,Census Tract 18; New York County; New York,76726.0
 36061002000,Census Tract 20; New York County; New York,30792.0
-36061002100,Census Tract 21; New York County; New York,250001.0
+36061002100,Census Tract 21; New York County; New York,
 36061002201,Census Tract 22.01; New York County; New York,39961.0
 36061002202,Census Tract 22.02; New York County; New York,151711.0
 36061002400,Census Tract 24; New York County; New York,21092.0
@@ -1199,11 +1199,11 @@ GEOID,NAME,median_income
 36061003002,Census Tract 30.02; New York County; New York,74691.0
 36061003100,Census Tract 31; New York County; New York,189250.0
 36061003200,Census Tract 32; New York County; New York,101294.0
-36061003300,Census Tract 33; New York County; New York,250001.0
+36061003300,Census Tract 33; New York County; New York,
 36061003400,Census Tract 34; New York County; New York,121413.0
 36061003601,Census Tract 36.01; New York County; New York,57000.0
 36061003602,Census Tract 36.02; New York County; New York,155000.0
-36061003700,Census Tract 37; New York County; New York,250001.0
+36061003700,Census Tract 37; New York County; New York,
 36061003800,Census Tract 38; New York County; New York,78220.0
 36061003900,Census Tract 39; New York County; New York,202542.0
 36061004001,Census Tract 40.01; New York County; New York,150661.0
@@ -1266,7 +1266,7 @@ GEOID,NAME,median_income
 36061009600,Census Tract 96; New York County; New York,
 36061009700,Census Tract 97; New York County; New York,71537.0
 36061009800,Census Tract 98; New York County; New York,171745.0
-36061009901,Census Tract 99.01; New York County; New York,250001.0
+36061009901,Census Tract 99.01; New York County; New York,
 36061009902,Census Tract 99.02; New York County; New York,162845.0
 36061009903,Census Tract 99.03; New York County; New York,187596.0
 36061010000,Census Tract 100; New York County; New York,99875.0
@@ -1314,7 +1314,7 @@ GEOID,NAME,median_income
 36061013400,Census Tract 134; New York County; New York,122163.0
 36061013501,Census Tract 135.01; New York County; New York,99265.0
 36061013502,Census Tract 135.02; New York County; New York,95693.0
-36061013601,Census Tract 136.01; New York County; New York,250001.0
+36061013601,Census Tract 136.01; New York County; New York,
 36061013602,Census Tract 136.02; New York County; New York,188628.0
 36061013603,Census Tract 136.03; New York County; New York,171912.0
 36061013604,Census Tract 136.04; New York County; New York,168970.0
@@ -1322,7 +1322,7 @@ GEOID,NAME,median_income
 36061013800,Census Tract 138; New York County; New York,141343.0
 36061013900,Census Tract 139; New York County; New York,108071.0
 36061014000,Census Tract 140; New York County; New York,220066.0
-36061014200,Census Tract 142; New York County; New York,250001.0
+36061014200,Census Tract 142; New York County; New York,
 36061014300,Census Tract 143; New York County; New York,
 36061014401,Census Tract 144.01; New York County; New York,202966.0
 36061014402,Census Tract 144.02; New York County; New York,163086.0
@@ -1351,7 +1351,7 @@ GEOID,NAME,median_income
 36061015801,Census Tract 158.01; New York County; New York,177750.0
 36061015802,Census Tract 158.02; New York County; New York,95391.0
 36061015900,Census Tract 159; New York County; New York,156830.0
-36061016001,Census Tract 160.01; New York County; New York,250001.0
+36061016001,Census Tract 160.01; New York County; New York,
 36061016002,Census Tract 160.02; New York County; New York,121216.0
 36061016100,Census Tract 161; New York County; New York,179179.0
 36061016200,Census Tract 162; New York County; New York,21942.0
@@ -1359,7 +1359,7 @@ GEOID,NAME,median_income
 36061016400,Census Tract 164; New York County; New York,26544.0
 36061016500,Census Tract 165; New York County; New York,213661.0
 36061016600,Census Tract 166; New York County; New York,50231.0
-36061016700,Census Tract 167; New York County; New York,250001.0
+36061016700,Census Tract 167; New York County; New York,
 36061016800,Census Tract 168; New York County; New York,38833.0
 36061016900,Census Tract 169; New York County; New York,184268.0
 36061017000,Census Tract 170; New York County; New York,40027.0
@@ -1472,7 +1472,7 @@ GEOID,NAME,median_income
 36061030700,Census Tract 307; New York County; New York,108073.0
 36061030900,Census Tract 309; New York County; New York,40438.0
 36061031100,Census Tract 311; New York County; New York,
-36061031703,Census Tract 317.03; New York County; New York,250001.0
+36061031703,Census Tract 317.03; New York County; New York,
 36061031704,Census Tract 317.04; New York County; New York,218917.0
 36061031900,Census Tract 319; New York County; New York,
 36081000101,Census Tract 1.01; Queens County; New York,134304.0

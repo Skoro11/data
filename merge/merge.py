@@ -14,11 +14,13 @@ subway = pd.read_csv(
 )
 base = base.merge(subway, on="listing_id", how="left")
 
-distances = pd.read_csv(
-    "../distance_to/distance_to_final.csv",
-    usecols=["listing_id", "dist_to_cbd_km", "nearest_park_name", "dist_to_park_km"],
+city_center = pd.read_csv("../city_center/city_center_final.csv", usecols=["listing_id", "dist_to_cbd_km"])
+base = base.merge(city_center, on="listing_id", how="left")
+
+park = pd.read_csv(
+    "../park/park_final.csv", usecols=["listing_id", "nearest_park_name", "dist_to_park_km"]
 )
-base = base.merge(distances, on="listing_id", how="left")
+base = base.merge(park, on="listing_id", how="left")
 
 # --- tract-level files, joined via a spatial join to get each listing's GEOID ---
 tracts = gpd.read_file("../median_income/2020_Census_Tracts_20261004.geojson")
