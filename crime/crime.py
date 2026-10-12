@@ -3,7 +3,7 @@ import pandas as pd
 
 YEARS = 2  # 2024 + 2025
 
-crimes = pd.read_csv("NYPD_Complaint_Data_Historic_20261004 (2).csv", low_memory=False)
+crimes = pd.read_csv("NYPD_Complaint_Data_Historic_20261004.csv", low_memory=False)
 crimes = crimes.dropna(subset=["Latitude", "Longitude"])
 crimes["Latitude"] = crimes["Latitude"].astype(str).str.replace(",", ".").astype(float)
 crimes["Longitude"] = crimes["Longitude"].astype(str).str.replace(",", ".").astype(float)
@@ -32,5 +32,5 @@ out["mean_felony"] = out["mean_felony"].fillna(0)
 unmatched = len(points) - joined["GEOID"].notna().sum()
 print(f"{unmatched} of {len(points)} incidents did not fall inside any tract")
 
-out.to_csv("crime_final.csv", index=False)
-print(f"Wrote {len(out)} rows to crime_final.csv")
+out.to_csv("crime.csv", index=False)
+print(f"Wrote {len(out)} rows to crime.csv")

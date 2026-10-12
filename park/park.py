@@ -22,5 +22,5 @@ df["dist_to_park_km"] = nearest["dist_ft"].values * 0.0003048
 print(f"Processed {len(df)} listings")
 print(df["dist_to_park_km"].describe())
 
-df.to_csv("park_final.csv", index=False)
-print(f"Wrote {len(df)} rows to park_final.csv")
+df.to_csv("park.csv", index=False)
+print(f"Wrote {len(df)} rows to park.csv")
