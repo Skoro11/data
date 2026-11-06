@@ -33,6 +33,7 @@ mapped["latitude"] = df["latLong/latitude"]
 mapped["longitude"] = df["latLong/longitude"]
 mapped["sale_year"] = pd.to_datetime(df["hdpData/homeInfo/dateSold"], unit="ms").dt.year
 mapped["url"] = df["detailUrl"]
+mapped["year_built"] = df["year_built"]
 # Build a direct link to the first photo (baseUrl is a template like
 # ".../{photoKey}-p_e.jpg"); listings without one get "no photo"
 mapped["image_url"] = [
