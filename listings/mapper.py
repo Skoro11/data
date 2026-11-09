@@ -28,7 +28,6 @@ mapped["sqft"] = df["hdpData/homeInfo/livingArea"]
 # Fill empty columns with fallback values from another column that have same value
 mapped["beds"] = df["beds"].fillna(df["hdpData/homeInfo/bedrooms"])
 mapped["baths"] = df["baths"].fillna(df["hdpData/homeInfo/bathrooms"])
-mapped["zip_code"] = df["addressZipcode"].fillna(df["hdpData/homeInfo/zipcode"])
 mapped["latitude"] = df["latLong/latitude"]
 mapped["longitude"] = df["latLong/longitude"]
 mapped["sale_year"] = pd.to_datetime(df["hdpData/homeInfo/dateSold"], unit="ms").dt.year

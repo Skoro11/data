@@ -5,7 +5,7 @@ base = pd.read_csv("../listings/zillow_mapped_dataset.csv")
 print(f"Base listings: {len(base)}")
 
 # --- per-listing files, joined on listing_id ---
-air_quality = pd.read_csv("../air_quality/air_quality_distance_final.csv", usecols=["listing_id", "pm2_5"])
+air_quality = pd.read_csv("../air_quality/air_quality.csv", usecols=["listing_id", "pm2_5"])
 base = base.merge(air_quality, on="listing_id", how="left")
 
 subway = pd.read_csv(
@@ -18,7 +18,7 @@ city_center = pd.read_csv("../city_center/city_center_final.csv", usecols=["list
 base = base.merge(city_center, on="listing_id", how="left")
 
 park = pd.read_csv(
-    "../park/park_final.csv", usecols=["listing_id", "nearest_park_name", "dist_to_park_km"]
+    "../park/park.csv", usecols=["listing_id", "nearest_park_name", "dist_to_park_km"]
 )
 base = base.merge(park, on="listing_id", how="left")
 
@@ -37,12 +37,12 @@ base["GEOID"] = joined["GEOID"].values
 missing_geoid = base["GEOID"].isna().sum()
 print(f"{missing_geoid} listings did not match a census tract")
 
-median_income = pd.read_csv("../median_income/median_income_final.csv", dtype={"GEOID": str})[
+median_income = pd.read_csv("../median_income/median_income_tract.csv", dtype={"GEOID": str})[
     ["GEOID", "median_income"]
 ]
 base = base.merge(median_income, on="GEOID", how="left")
 
-crime = pd.read_csv("../crime/crime_final.csv", dtype={"GEOID": str})[["GEOID", "mean_felony"]]
+crime = pd.read_csv("../crime/crime.csv", dtype={"GEOID": str})[["GEOID", "mean_felony"]]
 base = base.merge(crime, on="GEOID", how="left")
 
 print(f"Final merged dataset: {len(base)} rows, {len(base.columns)} columns")
